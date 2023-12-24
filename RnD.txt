@@ -52,7 +52,7 @@ SE: S is related to V and SD in a similar way, while M+C is related to L in a si
 RMS: MC is related to V+L in a similar way, while SD is related to K in a similar way.
 Colin: MC is related to L in a similar way, while V is related to SD and K is related to S. 
 
-Discrete was 2nd attempt when matrix failed. D=(4,5,6,7,9), C=(0.3,0.5,0.6,0.7,1.5)
+Discrete was 2nd attempt when matrix failed. D=(4,5,6,7,9), C=(0.3,0.5,0.6,0.7,0.9)
 
 S: 0.001a^2 + 0.12a * 0.83 = 6. Solving a = √(6 / 0.001 + 0.1008) = √(6000 + 1008) = √7008 = 84.2
 V: 0.001a^2 + 0.12a * 0.84 = 12. Solving a = √(12 / 0.001 + 100.8) = √1308.8 = 36.2
@@ -62,8 +62,11 @@ C: 0.001a^2 + 0.12a * 0.9 = 4. Solving a = √(4 / 0.001 + 8.16) = √50.16 = 7
 L: 0.001a^2 + 0.12a * 0.83 = 11. Solving a = √(11 / 0.001 + 9.52) = √105.52 = 10.3
 KD: 0.001a^2 + 0.12a * 0.9 = 2. Solving a = √(2 / 0.001 + 9.6) = √10.6 = 3.3
 
-S: 15, 2, 5. V: 26, 3.1, 8. SD: 26, 3.1, 7. M: 20, 2.5, 8. C: 20, 2.5, 8. L: 31, 3.6, 8. K: 3, 0.2, 7
-S cm, V cm, SD c, M c, C c, L cm, KD d. Therefore L is more red than blue.  
+S: 15, 1.4, 5. V: 26, 2.5, 8. SD: 26, 1.9, 7. M: 20, 1.9, 8. C: 20, 1.9, 8. L: 31, 3, 8. K: 3, 0.2, 7   S cm, V cm, SD c, M c, C c, L cm, KD d. rest => dust (0), cest (1). 
+
+V-L-S-C-M-SD-K : MC = 1 dust (duo), VL = 1 cest (10/1.33).
+
+2 (0.3, 0.7, 0.9), 4 (0.3, 0.5, 0.6, 0.7, 0.9) vs 1 (0.9), 10 (0.5, 0.7, 0.9, 1.1, 1.2, 1.4, 1.6).
 
 1. AGTCAG: Ser - Ser. 2. ATGGCG: Met - Ala. 3. TACCTC: Tyr - Pro. 4. CGATGC: Arg - Met
 5. CAGTAG: Gln - Stop. 6. GCTACG: Ala - Thr. 7. ACTGCT: Thr - Ala. 8. GTACGA: Val - Arg
