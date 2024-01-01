@@ -68,14 +68,4 @@ K: 3, 0.2, 7. S cm, V cm, SD c, M c, C c, L cm, KD d. rest => dust (0), cest (1)
 V-L-S-C-M-SD-K : MC = 1 dust (duo), VL = 1 cest (10/1.33). 2 (0.3, 0.7, 0.9), 
 4 (0.3, 0.5, 0.6, 0.7, 0.9) vs (0.9), 10 (0.5, 0.7, 0.9, 1.1, 1.2, 1.4, 1.6).
 
-1. AGTCAG: Ser - Ser. 2. ATGGCG: Met - Ala. 3. TACCTC: Tyr - Pro. 4. CGATGC: Arg - Met
-5. CAGTAG: Gln - Stop. 6. GCTACG: Ala - Thr. 7. ACTGCT: Thr - Ala. 8. GTACGA: Val - Arg
-9. CCCAGT: Pro - Gln. 10. TCTAGC: Ser - Ser. Else chord progression, unit circle. 
-
-dna_sequence = "AGTCAGTCA". primitive_words = [dna_sequence[i:i+3] for i in 
-range(len(dna_sequence)-2)] print(primitive_words) H - S. import itertools. 
-letters = ['A', 'C', 'G', 'T'] word_length = 9 combinations = list(itertools.
-product(letters, repeat=word_length)) primitive_words = [''.join(combo) for 
-combo in combinations] for i in range(6): print(f"{i+1} {primitive_words[i]}") 
-for i, word in enumerate(primitive_words):<br> print(f"{i+1} {word}") 
-
+For the third letter, there are 5 options. Possible trigrams is 5 x 5 x 5 = 125. Unique trigrams is 125 / 3! = 25. Left is 15 or 12 %. For being a granular unit it needs to be 30 %. 
