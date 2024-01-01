@@ -70,10 +70,11 @@ mid = youth.count_trigrams(translated)
 print("Mean:", round(ouro, 1))
 print("Sum:", round(sun, 1))
 percent_scores = []
+average_percent_score = 0
 for trigram, count in mid.items():
   percent_scores.append((float(count) / len(input_text.split())) * 100)
-average_percent_score = sum(percent_scores) / len(percent_scores)
+  if len(percent_scores) > 0:
+    average_percent_score = sum(percent_scores) / len(percent_scores)
 print("Left:", round(average_percent_score, 1))
 for trigram, count in mid.items():
-    print(f"{trigram}: {count}")
-
+  print(f"{trigram}: {count}")
