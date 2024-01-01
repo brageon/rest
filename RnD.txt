@@ -68,4 +68,5 @@ K: 3, 0.2, 7. S cm, V cm, SD c, M c, C c, L cm, KD d. rest => dust (0), cest (1)
 V-L-S-C-M-SD-K : MC = 1 dust (duo), VL = 1 cest (10/1.33). 2 (0.3, 0.7, 0.9), 
 4 (0.3, 0.5, 0.6, 0.7, 0.9) vs (0.9), 10 (0.5, 0.7, 0.9, 1.1, 1.2, 1.4, 1.6).
 
-For the third letter, there are 5 options. Possible trigrams is 5 x 5 x 5 = 125. Unique trigrams is 125 / 3! = 25. Left is 15 or 12 %. For being a granular unit it needs to be 30 %. 
+For the third letter, there are 5 options. Possible trigrams is 5 x 5 x 5 = 125. 
+Unique trigrams is 125 / 3! = 25. Left is 15. For being a granular unit it needs to be 30 %. 
