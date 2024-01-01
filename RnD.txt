@@ -71,5 +71,5 @@ V-L-S-C-M-SD-K : MC = 1 dust (duo), VL = 1 cest (10/1.33). 2 (0.3, 0.7, 0.9),
 For the third letter, there are 5 options. Possible trigrams is 5 x 5 x 5 = 125. 
 Unique trigrams is 125 / 3! = 25. Left is 33. For being a granular unit it needs to be 30 %. 
 
-<img src="[https://drive.google.com/drive/folders/1X4vVUmXN6uNJOnjslSo578-L_fEWC0bM/args.png]" alt="Best examples">
-<img src="[https://drive.google.com/drive/folders/1X4vVUmXN6uNJOnjslSo578-L_fEWC0bM/param.png]" alt="Best proofs">
+<img src="https://drive.google.com/drive/folders/1X4vVUmXN6uNJOnjslSo578-L_fEWC0bM/args.png" alt="Best examples">
+<img src="https://drive.google.com/drive/folders/1X4vVUmXN6uNJOnjslSo578-L_fEWC0bM/param.png" alt="Best proofs">
