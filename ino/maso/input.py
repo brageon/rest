@@ -67,14 +67,13 @@ bacl = BaCl()
 translated = bacl.translate(input_text)
 ouro, sun = bacl.calc(translated)
 mid = youth.count_trigrams(translated)
-print("Mean:", round(ouro, 1))
-print("Sum:", round(sun, 1))
 percent_scores = []
 average_percent_score = 0
 for trigram, count in mid.items():
   percent_scores.append((float(count) / len(input_text.split())) * 100)
   if len(percent_scores) > 0:
-    average_percent_score = sum(percent_scores) / len(percent_scores)
-print("Left:", round(average_percent_score, 1))
+    average_percent_score = sum(percent_scores) / len(percent_scores) 
+zeta = round(average_percent_score, 1) / round(sun, 1) / round(ouro, 1)
+print("Sum:", round(sun, 1), "Mean:", round(ouro, 1), "Left:", round(average_percent_score, 1), "Rank:", round(zeta, 1))
 for trigram, count in mid.items():
   print(f"{trigram}: {count}")
