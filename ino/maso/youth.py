@@ -1,4 +1,6 @@
 import re, nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 youn = {'T A T': 1, 'Z J T': 1, 'T Z J': 1, 'J Z T': 2, 'Z Z T': 2, 'T G G': 2, 'G J T': 3, 'T G J': 3, 'T Z G': 3, 'T Z Z': 4, 'J G T': 4, 'Z G T': 4, 'G G T': 5, 'T G Z': 5, 'T J T': 5}
 def count_trigrams(text):
     tokens = nltk.word_tokenize(text)
