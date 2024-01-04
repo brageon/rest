@@ -22,7 +22,7 @@ class BaCl:
         word_list.append(str(word))
     translated = ' '.join(word_list)
     return translated
-def count_trigrams(self, text):
+  def count_trigrams(self, text):
     tokens = nltk.word_tokenize(text)
     trigrams = []
     for i in range(len(tokens) - 2):
