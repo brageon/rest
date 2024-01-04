@@ -1,8 +1,8 @@
 import numpy as np
 from nltk import pos_tag
 import re, nltk, string
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+#nltk.download('punkt')
+#nltk.download('averaged_perceptron_tagger')
 from collections import Counter
 tag_map = {'NNP': 'Z', 'NNPS': 'Z', 'NN': 'Z', 'NNS': 'Z', 'WP': 'Z', 'WPS': 'Z', 'DT': 'Z', 'PDT': 'Z', 'WDT': 'Z', 'PRP': 'A', 'PRPS': 'A', 'PRP$': 'A', 'EX': 'A', 'POS' : 'A', 'TO': 'A', 'UH': 'J', 'IN': 'J', 'CD': 'J', 'FW': 'J', 'RP': 'J', 'CC': 'J', 'MD' : 'J', 'JJ': 'T', 'JJR': 'T', 'JJS': 'T', 'RB': 'T', 'WRB': 'T', 'RBR': 'T', 'RBS': 'T', 'VBP': 'G', 'VBZ': 'G', 'VBD': 'G', 'VBG': 'G', 'VBN': 'G', 'VB': 'G'}
 dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9}
@@ -28,14 +28,21 @@ class BaCl:
     tokens = nltk.word_tokenize(text)
     trigrams = []
     for i in range(len(tokens) - 2):
-        trigram = tokens[i] + ' ' + tokens[i + 1] + ' ' + tokens[i + 2]
-        trigrams.append(trigram)
+      trigram = tokens[i] + ' ' + tokens[i + 1] + ' ' + tokens[i + 2]
+      trigrams.append(trigram)
     counts = {}
     for trigram in trigrams:
-        if trigram in youn:
-            if trigram not in counts:
-                counts[trigram] = 0
-            counts[trigram] += 1
+      if trigram in youn:
+        if trigram not in counts:
+          counts[trigram] = 0
+        counts[trigram] += 1
+    match = []
+    for pattern in youn.keys():
+      match.append(re.search(pattern, text))
+    for match in match:
+      if match:
+        result = match.group()
+        print("Pat:", result, "Sta:", match.start(), "End:", match.end())
     return counts
   def calc(self, translated):
     words = translated.split(' ')
@@ -88,13 +95,15 @@ average_percent_score = 0
 for trigram, count in mid.items():
   percent_scores.append((float(count) / len(input_text.split())) * 100)
   if len(percent_scores) > 0:
-    average_percent_score = sum(percent_scores) / len(percent_scores) 
+    average_percent_score = sum(percent_scores) / len(percent_scores)
 zeta = round(average_percent_score, 1) / round(sun, 1) / round(ouro, 1)
 print("Sum:", round(sun, 1), "Mean:", round(ouro, 1), "Left:", round(average_percent_score, 1), "Rank:", round(zeta, 1))
-match = []
-for pattern in youn.keys():
-  match.append(re.search(pattern, input_text))
-for match in match:
-  if match:
-    result = match.group()
-    print("Pat:", result, "Sta:", match.start(), "End:", match.end())
+def get_words(text, start_indexes, end_indexes):
+  words = []
+  for start_index, end_index in zip(start_indexes, end_indexes):
+    words.append(text[start_index:end_index])
+  return words
+star, den, sta, lel, dem = 19, 43, 130, 145, 168
+gen, vem, dar, foo, ele = 185, 196, 220, 231, 243
+words = get_words(input_text, [star, sta, dem, vem, foo], [den, lel, gen, dar, ele])
+print(words)
