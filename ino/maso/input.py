@@ -77,5 +77,12 @@ for trigram, count in mid.items():
     average_percent_score = sum(percent_scores) / len(percent_scores) 
 zeta = round(average_percent_score, 1) / round(sun, 1) / round(ouro, 1)
 print("Sum:", round(sun, 1), "Mean:", round(ouro, 1), "Left:", round(average_percent_score, 1), "Rank:", round(zeta, 1))
-for trigram, count in mid.items():
-  print(f"{trigram}: {count}")
+#for trigram, count in mid.items():
+#  print(f"{trigram}: {count}")
+match = []
+for pattern in youn.keys():
+  match.append(re.search(pattern, input_text))
+for match in match:
+  if match:
+    result = match.group()
+    print("Pat:", result, "Sta:", match.start(), "End:", match.end())
