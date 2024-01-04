@@ -1,0 +1,98 @@
+import numpy as np
+from nltk import pos_tag
+import re, nltk, string
+from collections import Counter
+tag_map = {'NNP': 'Z', 'NNPS': 'Z', 'NN': 'Z', 'NNS': 'Z', 'WP': 'Z', 'WPS': 'Z', 'DT': 'Z', 'PDT': 'Z', 'WDT': 'Z', 'PRP': 'A', 'PRPS': 'A', 'PRP$': 'A', 'EX': 'A', 'POS' : 'A', 'TO': 'A', 'UH': 'J', 'IN': 'J', 'CD': 'J', 'FW': 'J', 'RP': 'J', 'CC': 'J', 'MD' : 'J', 'JJ': 'T', 'JJR': 'T', 'JJS': 'T', 'RB': 'T', 'WRB': 'T', 'RBR': 'T', 'RBS': 'T', 'VBP': 'G', 'VBZ': 'G', 'VBD': 'G', 'VBG': 'G', 'VBN': 'G', 'VB': 'G'}
+dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9}
+youn = {'T A T': 1, 'Z J T': 1, 'T Z J': 1, 'J Z T': 2, 'Z Z T': 2, 'T G G': 2, 'G J T': 3, 'T G J': 3, 'T Z G': 3, 'T Z Z': 4, 'J G T': 4, 'Z G T': 4, 'G G T': 5, 'T G Z': 5, 'T J T': 5}
+class BaCl:
+  def __init__(self):
+    pass
+  def translate(self, text):
+    tokens = nltk.word_tokenize(text)
+    tag_pairs = nltk.pos_tag(tokens)
+    convert = [tag_map.get(tag, tag) for _, tag in tag_pairs]
+    word_list = []
+    for word in convert:
+      if isinstance(word, float):
+        continue
+      if word in dict_map and isinstance(dict_map[word], str):
+        word_list.append(dict_map[word])
+      else:
+        word_list.append(str(word))
+    translated = ' '.join(word_list)
+    return translated
+def count_trigrams(self, text):
+    tokens = nltk.word_tokenize(text)
+    trigrams = []
+    for i in range(len(tokens) - 2):
+        trigram = tokens[i] + ' ' + tokens[i + 1] + ' ' + tokens[i + 2]
+        trigrams.append(trigram)
+    counts = {}
+    for trigram in trigrams:
+        if trigram in youn:
+            if trigram not in counts:
+                counts[trigram] = 0
+            counts[trigram] += 1
+    return counts
+  def calc(self, translated):
+    words = translated.split(' ')
+    line_sum = sum([float(dict_map.get(word, 0)) for word in words])
+    count, special_cases = 0, 0
+    line = ' '.join(words)
+    for i in range(1, len(words)):
+      if words[i - 1] == "G" and words[i] == "Z":
+        line_sum -= 0.3
+        special_cases += 1
+      elif words[i - 1] == "Z" and words[i] == "G":
+        line_sum -= 0.6
+        special_cases += 1
+      elif words[i - 1] == "T" and words[i] == "J":
+        line_sum -= 0.5
+        special_cases += 1
+      elif words[i - 1] == "J" and words[i] == "T":
+        line_sum -= 0.9
+        special_cases += 1
+      elif words[i - 1] == "G" and words[i] == "G":
+        line_sum -= 0
+        special_cases += 0
+      elif words[i - 1] == "Z" and words[i] == "Z":
+        line_sum -= 0
+        special_cases += 0
+      elif words[i - 1] == "A" and words[i] == "A":
+        line_sum -= 0
+        special_cases += 0
+      elif words[i - 1] == "J" and words[i] == "J":
+        line_sum -= 0
+        special_cases += 0
+      elif words[i - 1] == "T" and words[i] == "T":
+        line_sum -= 0
+        special_cases += 0
+      else:
+        count += 1
+    if count - special_cases > 0:
+      ouro = (line_sum / (count - special_cases))
+    else:
+      ouro = dict_map.get(word, 0) if count == 0 else line_sum / count
+    sun = sum([dict_map.get(word, 0) for word in words])
+    return ouro, sun
+input_text = "Risken finns dock att drabbas av ytterligare skada och sjukdom på grund av åtgärder utförda av hälso- och sjukvården eller annat som kan inträffa i vårdmiljö. En patient kan exempelvis drabbas av en nervskada under operation, bli infekterad av ett smittämne som förekommer på sjukhuset, eller bli feldiagnostiserad och kanske få ett läkemedel förskrivet som i själva verket är skadligt för patienten. Sådana följder av behandling ingår normalt inte någon patients förväntningar, och det framstår som rimligt om den drabbade patienten söker någon form av upprättelse. En sådan upprättelse ges enklast i form av ekonomisk kompensation, och det finns idag världen över olika system för att tillhandahålla en sådan. Förutom att ge en skadad patient rätt till ersättning finns ett intresse av att genom det valda ersättningssystemet eller genom andra mekanismer bidra till prevention av framtida patientskador. Medan ersättning för patientskador i de flesta länder behandlas inom skadeståndsrätten, har Sverige valt ett annat system."
+bacl = BaCl()
+translated = bacl.translate(input_text)
+ouro, sun = bacl.calc(translated)
+mid = bacl.count_trigrams(translated)
+percent_scores = []
+average_percent_score = 0
+for trigram, count in mid.items():
+  percent_scores.append((float(count) / len(input_text.split())) * 100)
+  if len(percent_scores) > 0:
+    average_percent_score = sum(percent_scores) / len(percent_scores) 
+zeta = round(average_percent_score, 1) / round(sun, 1) / round(ouro, 1)
+print("Sum:", round(sun, 1), "Mean:", round(ouro, 1), "Left:", round(average_percent_score, 1), "Rank:", round(zeta, 1))
+match = []
+for pattern in youn.keys():
+  match.append(re.search(pattern, input_text))
+for match in match:
+  if match:
+    result = match.group()
+    print("Pat:", result, "Sta:", match.start(), "End:", match.end())
