@@ -98,7 +98,7 @@ class NaCl:
             self.mid = bacl.count_trigrams(translate)
             self.wco = len(line.split())
             blue = round(self.sun / self.ouro, 2)
-            zeta = round(np.log(blue - self.mim) / 1.19, 2)
+            zeta = round(np.log(blue - self.mim) / 0.79, 2)
             dat1 = self.varm * self.ouro
             dat2 = self.sda * self.zsa
             szk = round(self.zsa, 2)

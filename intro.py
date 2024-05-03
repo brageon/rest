@@ -1,13 +1,16 @@
-import re, nltk
 import numpy as np
+import re, nltk, pickle
 
 tag_map = {'NNP': 'Z', 'NNPS': 'Z', 'NN': 'Z', 'NNS': 'Z', 'WP': 'Z', 'WPS': 'Z', 'DT': 'Z', 'PDT': 'Z', 'WDT': 'Z', 'PRP': 'A', 'PRPS': 'A', 'PRP$': 'A', 'EX': 'A', 'POS' : 'A', 'TO': 'A', 'UH': 'J', 'IN': 'J', 'CD': 'J', 'FW': 'J', 'RP': 'J', 'CC': 'J', 'MD' : 'J', 'JJ': 'T', 'JJR': 'T', 'JJS': 'T', 'RB': 'T', 'WRB': 'T', 'RBR': 'T', 'RBS': 'T', 'VBP': 'G', 'VBZ': 'G', 'VBD': 'G', 'VBG': 'G', 'VBN': 'G', 'VB': 'G'}
 dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9}
 youn = {'A J T': 1, 'G G Z': 1, 'J A T': 1, 'J J T': 1, 'A Z T': 1, 'Z J Z': 1, 'G Z G': 1, 'G A T': 1, 'Z J G': 2, 'G Z J': 2, 'T G A': 2, 'J Z Z': 3, 'Z Z Z': 3, 'T A G': 4, 'A G T': 4, 'T J Z': 4, 'T A T': 5, 'Z J T': 5, 'T Z J': 5, 'J Z T': 6, 'Z Z T': 6, 'T G G': 6, 'G J T': 7, 'T G J': 7, 'T Z G': 7, 'T Z Z': 8, 'J G T': 8, 'Z G T': 8, 'G G T': 9, 'T G Z': 9, 'T J T': 9, 'G Z T': 10, 'T Z T': 10}
 
 class BaCl:
+    def __init__(self):  # Initialize the tokenizer during class creation
+        self.tokenizer = pickle.load(open('nltp/punkt/english.pickle', 'rb')) 
+
     def translate(self, text):
-        tokens = nltk.word_tokenize(text)
+        tokens = self.tokenizer.tokenize(text)
         tag_pairs = nltk.pos_tag(tokens)
         convert = [tag_map.get(tag, tag) for _, tag in tag_pairs]
         word_list = []
@@ -20,7 +23,7 @@ class BaCl:
         return translated
 
     def count_trigrams(self, text):
-        tokens = nltk.word_tokenize(text)
+        tokens = self.tokenizer.tokenize(text)
         trigrams = []
         for isp in range(len(tokens) - 2):
             trigram = tokens[isp] + ' ' + tokens[isp + 1] + ' ' + tokens[isp + 2]
@@ -99,7 +102,7 @@ def green():
 mim = green()
 if mim is None:
     mim = -1
-zeta = round(np.log(blue - mim) / 1.19, 2)
+zeta = round(np.log(blue - mim) / 0.26, 2)
 dat1 = varm * ouro
 dat2 = sda * zsa
 skew1 = (blue / wco) * 100
