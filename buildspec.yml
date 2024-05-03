@@ -1,18 +1,16 @@
 version: 0.2
 
 phases:
-  cache:
-    paths:
-      - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
-
   install:
     runtime-versions:
       python: 3.10
     commands:
       - pip install --upgrade awscli
-      - pip install -U nltk numpy
-      - python -m nltk.downloader punkt
-      - python -m nltk.downloader averaged_perceptron_tagger
+      - pip install numpy
+      - pip install nltk[punkt,averaged_perceptron_tagger]
+    cache:
+      paths:
+        - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
 
   pre_build:
     commands:
