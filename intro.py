@@ -5,12 +5,9 @@ tag_map = {'NNP': 'Z', 'NNPS': 'Z', 'NN': 'Z', 'NNS': 'Z', 'WP': 'Z', 'WPS': 'Z'
 dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9}
 youn = {'A J T': 1, 'G G Z': 1, 'J A T': 1, 'J J T': 1, 'A Z T': 1, 'Z J Z': 1, 'G Z G': 1, 'G A T': 1, 'Z J G': 2, 'G Z J': 2, 'T G A': 2, 'J Z Z': 3, 'Z Z Z': 3, 'T A G': 4, 'A G T': 4, 'T J Z': 4, 'T A T': 5, 'Z J T': 5, 'T Z J': 5, 'J Z T': 6, 'Z Z T': 6, 'T G G': 6, 'G J T': 7, 'T G J': 7, 'T Z G': 7, 'T Z Z': 8, 'J G T': 8, 'Z G T': 8, 'G G T': 9, 'T G Z': 9, 'T J T': 9, 'G Z T': 10, 'T Z T': 10}
 
-class BaCl:
-    def __init__(self):
-        self.tokenizer = pickle.load(open('nltp/punkt/english.pickle', 'rb'))
-             
+class BaCl:   
     def translate(self, text):
-        tokens = self.tokenizer.tokenize(text)
+        tokens = nltk.word_tokenize(text)
         tag_pairs = nltk.pos_tag(tokens)
         convert = [tag_map.get(tag, tag) for _, tag in tag_pairs]
         word_list = []
@@ -23,7 +20,7 @@ class BaCl:
         return translated
 
     def count_trigrams(self, text):
-        tokens = self.tokenizer.tokenize(text)
+        tokens = nltk.word_tokenize(text)
         trigrams = []
         for isp in range(len(tokens) - 2):
             trigram = tokens[isp] + ' ' + tokens[isp + 1] + ' ' + tokens[isp + 2]
