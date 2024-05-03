@@ -1,9 +1,9 @@
 # RST - heuristics to ranking
 This was meant for cognitive therapy by emotional awareness. In its current shape it can be used for copywriting. Why specific values before measure you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit. Zero product property is not applicable as first order unit. 
 
-Repo A "oak" was deployed first by Netlify, Vercel and lastly GitHub. Compare this with Amplify which is BaaS or Quickbase for CRM. Workflow: gh-pages, api gateway, lambda, codebuild, repo b "rest", s3, sns, lambda2, repo a. Beside DevOps one can use *oanc* as spreadsheet macro for creative discernment. 
+Repo A "oak" was deployed first by Netlify, Vercel and lastly GitHub. Compare this with Amplify which is BaaS or Quickbase for CRM. Workflow: gh-pages, api gateway, lambda, codebuild, repo b "rest", s3, sns, lambda2, repo a. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. 
 
-Specifications for design lie in chemistry. Imaginary number is placeholder for undefined quantity. Spherical cow happen when using particles as proof. My proof for "zeta, 1.19" is this sentence: "I always lie". "Blue" is enthalpy, heat content. Molecules per gram (wco) is molar mass. Analogy: **ln(H/mol)/Pa** can be derived from mass transfer behavior of a gas (false) into a liquid (true).
+Specifications for design lie in chemistry. Imaginary number is placeholder for undefined quantity. Spherical cow happen when using particles as proof. My proof for "zeta, 1.19" is this sentence: "I always lie". "Blue" is enthalpy, heat content. Molecules per gram (wco) is molar mass. Analogy: **ln(H/mol)/Pa** can be derived from mass transfer behavior of a gas (false) into a liquid (true). GPT-3.5 work better for YAML.
 
 Conceptual analysis: Z=GAI, J=AWM, G=NVI, A=CPI, T=QRI. Noun is general category. Verb is non-verbal. Interjections is cardinals. Pronoun is active category defined by ownership and it can be seen as boson. SVT formula (m/s) compared to RGB. Red is word count (distance), blue is word metric (time), green is trigram debt (velocity). Riemann Zeta is a color plot of complex logarithms with primes. Z-score is agnostic of datasets.
 

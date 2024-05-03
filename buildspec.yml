@@ -1,16 +1,19 @@
 version: 0.2
 
-cache:
-  paths:
-    - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
-
 phases:
+  cache:
+    paths:
+      - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
+
   install:
     runtime-versions:
       python: 3.10
     commands:
-      - pip3 install awscli nltk numpy
-      
+      - pip install --upgrade awscli
+      - pip install -U nltk numpy
+      - python -m nltk.downloader punkt
+      - python -m nltk.downloader averaged_perceptron_tagger
+
   pre_build:
     commands:
       - aws configure set aws_role_arn $AWS_ROLE_ARN
@@ -18,7 +21,7 @@ phases:
   build:
     commands:
       - aws s3 cp s3://ddarwin/oak.txt oak.txt
-      - python3 intro.py > dove.txt
+      - python intro.py > dove.txt
       
   post_build:
     commands:
