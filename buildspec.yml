@@ -1,0 +1,33 @@
+version: 0.2
+runtime_version: python3.10
+
+cache:
+  paths:
+    - /usr/local/lib/python3.10/site-packages/
+
+steps:
+  - name: Checkout Code
+    uses: aws-actions/aws-codecommit-checkout@v2
+    
+  - name: Use AWS credentials from assumed role
+    uses: aws-actions/configure-aws-credentials@v4.0.2
+    with:
+      aws-role-arn: ${{ env.AWS_ROLE_ARN }}
+      
+  - name: Download User Input from S3
+    uses: aws-actions/aws-s3-download@v2
+    with:
+      bucket: ddarwin
+      object_key: oak.txt
+      local_path: oak.txt
+      
+  - name: Install dependencies
+    run: |
+      pip3 install nltk numpy
+      
+  - name: Run Script and Generate dove.txt
+    run: |
+      python3 intro.py > dove.txt
+      
+  - name: Upload dove.txt to S3
+    run: aws s3 cp ./dove.txt s3://ddarwin/dove.txt
