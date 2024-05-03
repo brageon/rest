@@ -8,18 +8,10 @@ youn = {'A J T': 1, 'G G Z': 1, 'J A T': 1, 'J J T': 1, 'A Z T': 1, 'Z J Z': 1, 
 class BaCl:
     def __init__(self):
         self.tokenizer = pickle.load(open('nltp/punkt/english.pickle', 'rb'))
-        with open('nltp/perceptron/averaged.pickle', 'rb') as fyr:
-            loaded_data = pickle.load(fyr)
-            if isinstance(loaded_data, tuple):
-                self.pos_tagger = nltk.pos_tag
-            elif isinstance(loaded_data, dict):
-                self.pos_tagger = loaded_data['pos_tagger']
-            else:
-                raise ValueError("Unexpected data format in averaged.pickle")
              
     def translate(self, text):
         tokens = self.tokenizer.tokenize(text)
-        tag_pairs = self.pos_tagger(tokens)
+        tag_pairs = nltk.pos_tag(tokens)
         convert = [tag_map.get(tag, tag) for _, tag in tag_pairs]
         word_list = []
         for word in convert:
