@@ -1,5 +1,9 @@
 version: 0.2
 
+cache:
+  paths:
+    - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
+
 phases:
   install:
     runtime-versions:

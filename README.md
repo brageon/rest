@@ -1,5 +1,5 @@
 # RST - heuristics to ranking
-This was meant for cognitive therapy by emotional awareness. In its current shape it can be used for creative writing to blogs. Why specific values before measure you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit. Zero product property is not applicable as first order unit. 
+This was meant for cognitive therapy by emotional awareness. In its current shape it can be used for copywriting. Why specific values before measure you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit. Zero product property is not applicable as first order unit. 
 
 Repo A "oak" was deployed first by Netlify, Vercel and lastly GitHub. Compare this with Amplify which is BaaS or Quickbase for CRM. Workflow: gh-pages, api gateway, lambda, codebuild, repo b "rest", s3, sns, lambda2, repo a. Beside DevOps one can use *oanc* as spreadsheet macro for creative discernment. 
 
