@@ -5,8 +5,8 @@ phases:
     runtime-versions:
       python: 3.10
     commands:
+      - pip install nltk numpy
       - pip install --upgrade awscli
-      - pip install nltk numpy pickle
 
   pre_build:
     commands:
