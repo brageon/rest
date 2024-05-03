@@ -6,12 +6,20 @@ dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9}
 youn = {'A J T': 1, 'G G Z': 1, 'J A T': 1, 'J J T': 1, 'A Z T': 1, 'Z J Z': 1, 'G Z G': 1, 'G A T': 1, 'Z J G': 2, 'G Z J': 2, 'T G A': 2, 'J Z Z': 3, 'Z Z Z': 3, 'T A G': 4, 'A G T': 4, 'T J Z': 4, 'T A T': 5, 'Z J T': 5, 'T Z J': 5, 'J Z T': 6, 'Z Z T': 6, 'T G G': 6, 'G J T': 7, 'T G J': 7, 'T Z G': 7, 'T Z Z': 8, 'J G T': 8, 'Z G T': 8, 'G G T': 9, 'T G Z': 9, 'T J T': 9, 'G Z T': 10, 'T Z T': 10}
 
 class BaCl:
-    def __init__(self):  # Initialize the tokenizer during class creation
-        self.tokenizer = pickle.load(open('nltp/punkt/english.pickle', 'rb')) 
-
+    def __init__(self):
+        self.tokenizer = pickle.load(open('nltp/punkt/english.pickle', 'rb'))
+        with open('nltp/perceptron/averaged.pickle', 'rb') as fyr:
+            loaded_data = pickle.load(fyr)
+            if isinstance(loaded_data, tuple):
+                self.pos_tagger = nltk.pos_tag
+            elif isinstance(loaded_data, dict):
+                self.pos_tagger = loaded_data['pos_tagger']
+            else:
+                raise ValueError("Unexpected data format in averaged.pickle")
+             
     def translate(self, text):
         tokens = self.tokenizer.tokenize(text)
-        tag_pairs = nltk.pos_tag(tokens)
+        tag_pairs = self.pos_tagger(tokens)
         convert = [tag_map.get(tag, tag) for _, tag in tag_pairs]
         word_list = []
         for word in convert:
@@ -70,7 +78,7 @@ class BaCl:
                 special_cases += 0
             else:
                 line_sum += 1
-        ouro = line_sum / (line_sum - special_cases) if count - special_cases > 0 else line_sum / special_cases
+        ouro = line_sum / (line_sum - special_cases) if line_sum - special_cases > 0 else line_sum / special_cases
         sun = sum([dict_map.get(word, 0) for word in words])
         cof = np.array([dict_map.get(word, 0) for word in words])
         if special_cases > 0:
