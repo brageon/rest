@@ -9,7 +9,6 @@ phases:
       
   pre_build:
     commands:
-      - aws codecommit get-repository --repository-name my-repo
       - aws configure set aws_role_arn $AWS_ROLE_ARN
       
   build:
