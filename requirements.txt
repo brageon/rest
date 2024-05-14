@@ -1,0 +1,3 @@
+nltk[punkt,averaged_perceptron_tagger]
+numpy
+awscli

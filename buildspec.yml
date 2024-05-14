@@ -11,15 +11,13 @@ phases:
       
   build:
     commands:
-      - docker build -t public.ecr.aws/bitnami/kaniko:latest
+      - docker build -t rezt:latest . --build-arg NLTK_DOWNLOAD="punkt averaged_perceptron_tagger"
 
   post_build:
-      - echo "Post-build phase complete"
+    commands:
+      - aws s3 cp dove.txt s3://ddarwin/dove.txt
 
 cache:
   paths:
     - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
-
-artifacts:
-  paths:
-    - argo.txt
+    - requirements.txt

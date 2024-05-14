@@ -12,8 +12,4 @@ WORKDIR /oanc
 
 COPY --from=builder /oanc/dove.txt .
 
-COPY --from=builder /oanc/nltk_cache /oanc/.nltk
-
-RUN --rm kaniko --dockerfile=Dockerfile.inner --build-arg NLTK_DOWNLOAD="punkt averaged_perceptron_tagger"
-
 CMD ["python", "intro.py"]
