@@ -14,6 +14,7 @@ phases:
       - docker build -t public.ecr.aws/bitnami/kaniko:latest
 
   post_build:
+      - echo "Post-build phase complete"
 
 cache:
   paths:
