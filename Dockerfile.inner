@@ -1,0 +1,7 @@
+RUN mkdir /oanc/nltk_cache
+
+COPY --from=builder /oanc/nltk_cache /oanc/nltk_cache
+
+RUN pip install --no-cache-dir --no-index-url nltk[punkt,averaged_perceptron_tagger] numpy awscli || true
+
+COPY --from=builder /oanc/nltk_cache /oanc/nltk_cache

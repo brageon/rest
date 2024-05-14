@@ -1,11 +1,11 @@
+import os, re, nltk
 import numpy as np
-import re, nltk, pickle
 
 tag_map = {'NNP': 'Z', 'NNPS': 'Z', 'NN': 'Z', 'NNS': 'Z', 'WP': 'Z', 'WPS': 'Z', 'DT': 'Z', 'PDT': 'Z', 'WDT': 'Z', 'PRP': 'A', 'PRPS': 'A', 'PRP$': 'A', 'EX': 'A', 'POS' : 'A', 'TO': 'A', 'UH': 'J', 'IN': 'J', 'CD': 'J', 'FW': 'J', 'RP': 'J', 'CC': 'J', 'MD' : 'J', 'JJ': 'T', 'JJR': 'T', 'JJS': 'T', 'RB': 'T', 'WRB': 'T', 'RBR': 'T', 'RBS': 'T', 'VBP': 'G', 'VBZ': 'G', 'VBD': 'G', 'VBG': 'G', 'VBN': 'G', 'VB': 'G'}
 dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9}
 youn = {'A J T': 1, 'G G Z': 1, 'J A T': 1, 'J J T': 1, 'A Z T': 1, 'Z J Z': 1, 'G Z G': 1, 'G A T': 1, 'Z J G': 2, 'G Z J': 2, 'T G A': 2, 'J Z Z': 3, 'Z Z Z': 3, 'T A G': 4, 'A G T': 4, 'T J Z': 4, 'T A T': 5, 'Z J T': 5, 'T Z J': 5, 'J Z T': 6, 'Z Z T': 6, 'T G G': 6, 'G J T': 7, 'T G J': 7, 'T Z G': 7, 'T Z Z': 8, 'J G T': 8, 'Z G T': 8, 'G G T': 9, 'T G Z': 9, 'T J T': 9, 'G Z T': 10, 'T Z T': 10}
 
-class BaCl:   
+class BaCl:
     def translate(self, text):
         tokens = nltk.word_tokenize(text)
         tag_pairs = nltk.pos_tag(tokens)
@@ -18,7 +18,6 @@ class BaCl:
                 word_list.append(str(word))
         translated = ' '.join(word_list)
         return translated
-
     def count_trigrams(self, text):
         tokens = nltk.word_tokenize(text)
         trigrams = []
@@ -32,7 +31,7 @@ class BaCl:
                     counts[trigram] = 0
                 counts[trigram] += 1
         return counts
-
+        
     def calc(self, translated):
         words = translated.split(' ')
         line_sum = sum([float(dict_map.get(word, 0)) for word in words])
@@ -77,61 +76,77 @@ class BaCl:
         else:
             varm, zsa, sda = 0.0, 0.0, 0.0
         return ouro, sun, varm, zsa, sda
-bacl = BaCl()
+    def remove_non(self, text):
+        return re.sub(r'[^a-zA-Z0-9\s]', '', text)
+        
+if __name__ == "__main__":
+    bacl = BaCl() 
+        
+class NaCl:
+    def __init__(self):
+        self.ouro, self.sun, self.varm = 0, 0, 0
+        self.zsa, self.sda, self.wco = 0, 0, 0
+        self.mim, self.skew1, self.skew2 = 0, 0, 0
+        self.mid = {}
 
-with open('oak.txt', 'r') as fox:
-    input_text = fox.read()
-
-def remove_non(text):
-    return re.sub(r'[^a-zA-Z0-9\s]', '', text)
-
-hydra = remove_non(input_text)
-translate = bacl.translate(hydra)
-ouro, sun, varm, zsa, sda = bacl.calc(translate)
-mid = bacl.count_trigrams(translate)
-blue = round(sun / ouro, 2)
-wco = len(input_text.split())
-
-def green():
-    for count, _ in mid.items():
-        return len(count) / wco
-
-mim = green()
-if mim is None:
-    mim = -1
-zeta = round(np.log(blue - mim) / 0.26, 2)
-dat1 = varm * ouro
-dat2 = sda * zsa
-skew1 = (blue / wco) * 100
-skew2 = (dat1 - dat2) * 100
-
-def adjust(was, saa, maa, zaa):
-    # 0 bomb, 1 land, 12 flag in Stratego.
-    isq = round(mim - skew1, 1)
-    if isq > 0.0:
-        pba = (skew2 + isq) / 12
-    else:
-        pba = np.log(skew2 - isq)
-    while pba < 0 or pba > 12:
-        if pba < 0:
-            pba += 12
+    def rayn(self):
+        with open('oak.txt', 'r') as file:
+            lines = file.readlines()
+        for isp, line in enumerate(lines):
+            rex = isp + 1
+            hydra = bacl.remove_non(line)
+            translate = bacl.translate(hydra)
+            self.ouro, self.sun, self.varm, self.zsa, self.sda = bacl.calc(translate)
+            self.mid = bacl.count_trigrams(translate)
+            self.wco = len(line.split())
+            blue = round(self.sun / self.ouro, 2)
+            zeta = round(np.log(blue - self.mim) / 1.19, 2)
+            dat1 = self.varm * self.ouro
+            dat2 = self.sda * self.zsa
+            szk = round(self.zsa, 2)
+            self.skew1 = (blue / self.wco) * 100
+            self.skew2 = (dat1 - dat2) * 100
+            isq, pba, mim = self.adjust(self.mim, self.skew1, self.skew2)
+            bas = (self.wco, self.sun, self.ouro, szk)
+            bos = (mim, isq, pba, zeta)
+            rba = self.tuple_elements(bas, precision=2)
+            rbo = self.tuple_elements(bos, precision=2)
+            pla = 'word, sum, mean, zsco'
+            pqa = 'neu, skew, rate, fuzz'
+            filename = f'oanc/app/o_{rex:02d}.txt'
+            with open(filename, 'w') as wolf:
+                wolf.writelines(f'{pla}\n{rba}\n{pqa}\n{rbo}\n')
+                    
+    def green(self):
+        if not self.mid:
+            return -1
+        return len(max(self.mid, key=self.mid.get)) / self.wco
+    def adjust(self, mim, skew1, skew2):
+        self.mim = self.green()
+        isq = round(self.mim - self.skew1, 1)
+        if isq > 0.0:
+            pba = (self.skew2 + isq) / 12
         else:
-            pba -= 12
-    return isq, pba
+            pba = np.log(self.skew2 - isq)
+        while pba < 0 or pba > 12:
+            if pba < 0:
+                pba += 12
+            else:
+                pba -= 12
+        return isq, round(pba, 2), round(self.mim, 2)
+    def tuple_elements(self, ttl, precision=2):
+        return tuple(round(element, precision) if isinstance(element, (int, float)) else element for element in ttl)
+        
+nacl = NaCl()
+results = nacl.rayn()
 
-isq, pba = adjust(wco, sda, ouro, zsa)
-bas = (wco, sun, ouro, zsa)
-bos = (mim, isq, pba, zeta)
-
-def tuple_elements(ttl, precision=2):
-    return tuple(round(element, precision) if isinstance(element, (int, float)) else element for element in ttl)
-
-rba = tuple_elements(bas, precision=2)
-rbo = tuple_elements(bos, precision=2)
-pla = 'word, sum, mean, zsco'
-pqa = 'neu, skew, rate, fuzz'
-
-print(pla)
-print(rba)
-print(pqa)
-print(rbo)
+def merge_files(directory, output_filename):
+    with open(output_filename, 'w') as outfile:
+        for filename in os.listdir(directory):
+            if filename.endswith('.txt'):
+                filepath = os.path.join(directory, filename)
+                with open(filepath, 'r') as infile:
+                    contents = infile.read()
+                    outfile.write(contents)
+                    
+merge_files('oanc/app', 'oanc/dove.txt')

