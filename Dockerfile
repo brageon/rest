@@ -10,6 +10,4 @@ FROM python:3.10
 
 WORKDIR /oanc
 
-COPY --from=builder /oanc/dove.txt .
-
 CMD ["python", "intro.py"]

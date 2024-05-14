@@ -5,7 +5,7 @@ phases:
     runtime-versions:
       python: 3.10
     commands:
-      - echo "Success" 
+      - pip install -r requirements.txt
       
   pre_build:  
     commands:
@@ -13,7 +13,8 @@ phases:
     
   build:
     commands:
-      - docker build -t rezt:latest . --build-arg NLTK_DOWNLOAD="punkt averaged_perceptron_tagger"
+      - docker build -t rezt:latest .
+      - docker info
 
   post_build:
     commands:
