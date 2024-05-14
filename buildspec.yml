@@ -5,10 +5,12 @@ phases:
     runtime-versions:
       python: 3.10
     commands:
-      - aws configure set aws_role_arn $AWS_ROLE_ARN 
-
-  pre_build:
+      - echo "Success" 
       
+  pre_build:  
+    commands:
+      - aws configure set aws_role_arn $AWS_ROLE_ARN
+    
   build:
     commands:
       - docker build -t rezt:latest . --build-arg NLTK_DOWNLOAD="punkt averaged_perceptron_tagger"
