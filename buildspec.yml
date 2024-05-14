@@ -18,6 +18,7 @@ phases:
 
   post_build:
     commands:
+      - python intro.py
       - aws s3 cp oanc/dove.txt s3://ddarwin/dove.txt
 
 cache:
