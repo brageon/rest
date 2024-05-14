@@ -5,25 +5,22 @@ phases:
     runtime-versions:
       python: 3.10
     commands:
-      - pip install -r requirements.txt
+      - pip install nltk numpy awscli
       
   pre_build:  
     commands:
       - aws configure set aws_role_arn $AWS_ROLE_ARN
-      - aws s3 cp s3://ddarwin/oak.txt oak.txt
     
   build:
     commands:
-      - export NLTK_DOWNLOAD="punkt,averaged_perceptron_tagger"
-      - docker build -t rezt .
-      - docker info
+      - aws s3 cp s3://ddarwin/oak.txt oak.txt
+      - python -m nltk.downloader punkt averaged_perceptron_tagger
+      - python intro.py
 
   post_build:
     commands:
-      - python intro.py
-      - aws s3 cp oanc/dove.txt s3://ddarwin/dove.txt
+      - aws s3 cp dove.txt s3://ddarwin/dove.txt
 
 cache:
   paths:
     - /root/.pyenv/versions/3.10.13/lib/python3.10/site-packages/
-    - requirements.txt

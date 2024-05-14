@@ -113,7 +113,7 @@ class NaCl:
             rbo = self.tuple_elements(bos, precision=2)
             pla = 'word, sum, mean, zsco'
             pqa = 'neu, skew, rate, fuzz'
-            filename = f'oanc/app/o_{rex:02d}.txt'
+            filename = f'oanc/o_{rex:02d}.txt'
             with open(filename, 'w') as wolf:
                 wolf.writelines(f'{pla}\n{rba}\n{pqa}\n{rbo}\n')
                     
@@ -148,5 +148,6 @@ def merge_files(directory, output_filename):
                 with open(filepath, 'r') as infile:
                     contents = infile.read()
                     outfile.write(contents)
+                os.remove(filepath)
                     
-merge_files('oanc/app', 'oanc/dove.txt')
+merge_files('oanc', 'dove.txt')
