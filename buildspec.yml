@@ -15,7 +15,7 @@ phases:
 
   post_build:
     commands:
-      - aws s3 cp dove.txt s3://ddarwin/dove.txt
+      - aws s3 cp oanc/dove.txt s3://ddarwin/dove.txt
 
 cache:
   paths:
