@@ -1,13 +1,11 @@
 FROM public.ecr.aws/bitnami/kaniko:latest AS builder
 
-WORKDIR /oanc
+WORKDIR .
 
-COPY . .
-
-RUN --rm kaniko --dockerfile=Dockerfile.inner
+RUN kaniko --dockerfile=Dockerfile.inner
 
 FROM python:3.10
 
-WORKDIR /oanc
+WORKDIR .
 
 CMD ["python", "intro.py"]

@@ -13,7 +13,7 @@ phases:
     
   build:
     commands:
-      - docker build -t rezt:latest .
+      - docker build rezt .
       - docker info
 
   post_build:
