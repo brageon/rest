@@ -10,9 +10,11 @@ phases:
   pre_build:  
     commands:
       - aws configure set aws_role_arn $AWS_ROLE_ARN
+      - aws s3 cp s3://ddarwin/oak.txt oak.txt
     
   build:
     commands:
+      - export DOCKER_BUILDKIT=1 
       - docker build -t rezt .
       - docker info
 
