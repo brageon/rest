@@ -1,4 +1,4 @@
-FROM buildkit/dockerfile:latest AS builder
+FROM moby/buildkit:latest AS builder
 
 WORKDIR .
 
