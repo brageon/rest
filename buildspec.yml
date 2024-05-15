@@ -5,19 +5,16 @@ phases:
     runtime-versions:
       python: 3.10
     commands:
-      - pip install numpy awscli
+      - pip install awscli
       
   pre_build:  
     commands:
       - aws configure set aws_role_arn $AWS_ROLE_ARN
-      - unzip adm/nltp/punkt.zip -d adm/nltp
-      - unzip adm/nltp/averaged_perceptron_tagger.zip -d adm/nltp
     
   build:
     commands:
       - aws s3 cp s3://ddarwin/oak.txt oak.txt
-      - export NLTK_DATA=adm/nltp
-      - python intro.py
+      - python rest.py > dove.txt
 
   post_build:
     commands:

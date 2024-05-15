@@ -1,6 +1,14 @@
 # RST - Heuristics to ranking
 This was meant for cognitive therapy by emotional awareness. Early design was SOAR / ACT-R - robotic behaviorism in Java. In its current shape this repo can be used for copywriting. Why specific values before measure you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit. Zero product property is not applicable as first order unit. 
 
-Repo A "oak" was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I have added common criterias to determine expertise in software making. Concurrent hash table is not possible with GIL. This imply that I must learn Java for SaaS after currying functions. I verify its success with forward proxy of multiple web drivers at the same time. 
+``` 
+GZ -= 0.3, ZG -= 0.6, TJ -= 0.5, JT -= 0.9, GG -= 0, ZZ -= 0, AA -= 0, JJ -= 0, TT -= 0, 
+AG += 0.6, GA += 0.7, TA += 0.7, AT += 0.9, JA += 0.7, AJ += 0.5, JG += 0.6, GJ += 0.5, 
+TG += 0.6, GT += 0.9, AZ += 0.3, ZA += 0.7, ZT += 0.9, TZ += 0.3, JZ += 0.3, ZJ += 0.5
 
-Imaginary number is placeholder for undefined quantity. Spherical cow happen when using particles as proof. My proof for "zeta, 1.19" is this sentence: "I always lie". "Blue" is enthalpy, heat content. Molecules per gram (wco) is molar mass. Analogy: **ln(H/mol)/Pa** can be derived from mass transfer behavior of a gas (false) into a liquid (true). GPT-3.5 work better for YAML.
+Lambda Console said it took 77 MB for parsing input. Changed this dramatic by compiling.
+averaged_perceptron_tagger (6 MB) said bias from POS tags is -5,013 / 35 = -0.143. 
+Deprecated code (nltk) with calc had 111 in cognitve complexity (flake8).
+```
+
+Repo A "oak" was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I have added common criterias to determine expertise in software making. Concurrent hash table is not possible with GIL. This imply that I must learn Kotlin for SaaS after currying functions. I verify its success inside S3 with forward proxy of multiple web drivers at the same time.
