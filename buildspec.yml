@@ -5,7 +5,7 @@ phases:
     runtime-versions:
       python: 3.10
     commands:
-      - pip install awscli
+      - pip install spacy awscli
       
   pre_build:  
     commands:
