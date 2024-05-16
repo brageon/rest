@@ -1,7 +1,6 @@
 import re, csv, nltk, time, scipy, numpy, socket
 import threading, logging, warnings, subprocess
 from nlptools.preprocessing.tagging import MLTagger
-from sklearn.linear_model import LinearRegression
 tag_map = {'NNP': 'Z', 'NNPS': 'Z', 'NN': 'Z', 'NNS': 'Z', 'PRP': 'A', 'WP': 'Z', 'WPS': 'Z', 'UH': 'S', 'DT': 'S', 'WDT': 'S', 'IN': 'J', 'CD': 'J', 'FW': 'J',
 'JJ': 'T', 'JJR': 'T', 'JJS': 'T', 'RB': 'T', 'RBR': 'T', 'RBS': 'T', 'VBP': 'G', 'VBZ': 'G', 'VBD': 'G', 'VBG': 'G', 'VBN': 'G', 'VB': 'G',
 'RP': 'A', 'EX': 'A', 'CC': 'A', 'WRB': 'A', 'MD': 'A', '.': 'n'}
@@ -21,13 +20,7 @@ def amrita(words):
     for word in words: 
         if word == "n":
             pass
-        if prev_letter == "A" and word == "S":
-            line_sum -= 0.3
-            special_cases += 1
-        elif prev_letter == "S" and word == "A":
-            line_sum -= 0.7
-            special_cases += 1
-        elif prev_letter == "G" and word == "Z":
+        if prev_letter == "G" and word == "Z":
             line_sum -= 0.3
             special_cases += 1
         elif prev_letter == "Z" and word == "G":
@@ -37,7 +30,7 @@ def amrita(words):
             line_sum -= 0.5
             special_cases += 1
         elif prev_letter == "J" and word == "T":
-            line_sum -= 1.5
+            line_sum -= 0.9
             special_cases += 1
         else:
             line_sum += dict_map[word]

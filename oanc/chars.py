@@ -1,7 +1,7 @@
 import re, nltk
 
 tag_map = ['NNP', 'NNPS', 'NN', 'NNS', 'WP', 'WPS', 'DT', 'PDT', 'WDT', 'PRP', 'PRPS', 'PRP$', 'EX', 'POS', 'TO', 'UH', 'IN', 'CD', 'FW', 'RP', 'CC', 'MD', 'JJ', 'JJR', 'JJS', 'RB', 'WRB', 'RBR', 'RBS', 'VBP', 'VBZ', 'VBD', 'VBG', 'VBN', 'VB']
-# 73 J dict vs 38 J list
+# 73 Jones as dict vs 38 Jones as list
 
 class NiTi:
     def translate(self, text):
