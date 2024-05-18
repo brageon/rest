@@ -29,7 +29,6 @@ class Translator:
         
     def hicks_tag(self, word_spans):
         duck = r"G Z | Z G | T J | J T"
-        neu = r"A A | Z Z | T T | G G | J J"
         youn = r"A J T | G G Z | J A T | J J T | A Z T | Z J Z | G Z G | G A T | Z J G | G Z J | T G A | J Z Z | Z Z Z | T A G | A G T | T J Z | T A T | Z J T | T Z J | J Z T | Z Z T | T G G | G J T | T G J | T Z G | T Z Z | J G T | Z G T | G G T | T G Z | T J T | G Z T | T Z T"
         matches = re.findall(youn, word_spans)
         return len(duck), len(matches)

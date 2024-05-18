@@ -13,8 +13,9 @@ phases:
     
   build:
     commands:
-      - aws s3 cp s3://ddarwin/oak.txt oak.txt
-      - python rest.py > dove.txt
+      - aws s3 cp s3://ddarwin/oak.txt oanc/pick/oak.txt
+      - python -m spacy download en_core_web_sm
+      - python oanc/pick/rest.py > dove.txt
 
   post_build:
     commands:

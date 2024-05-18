@@ -12,3 +12,5 @@ Deprecated code (nltk) with calc had 111 in cognitve complexity (flake8).
 ```
 
 Repo A "oak" was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I have added common criterias to determine expertise in software making. Concurrent hash table is not possible with GIL. This imply that I must learn Kotlin for SaaS after currying functions. I verify its success inside S3 with forward proxy of multiple web drivers at the same time.
+
+Concurency is supported by goroutines. Echo framework is a replacement for Express / NPM. I use SageMaker inside HyperPod Clusters nowadays. TensorFlow (text classification, sentence pair classification). HuggingFace (text summarization, machine translation, sentence pair classification, named entity recognition, question answering, text generation). Jina Embeddings (topic modeling). TensorFlow (image classification, object detection). PyTorch (image classification, object detection). MXNet (GluonCV), Stable Diffusion v2.1 (image generator).
