@@ -1,10 +1,13 @@
-Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. 
-Score: [(10, 4.67), (3, 4.76), (12, 4.81), (8, 5.08), (4, 5.12), (2, 5.93), (11, 6.15), (5, 6.21), (7, 6.83), (1, 7.17), (9, 7.3), (6, 7.43)]
+Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
+Score: [(10, 4.67), (3, 4.76), (12, 4.81), (8, 5.08), (4, 5.12), (2, 5.93), (11, 6.15), 
+(5, 6.21), (7, 6.83), (1, 7.17), (9, 7.3), (6, 7.43)]
 
 In practice you could mention Warren Buffet for being successful without collaboration. 💜🤍
 I help strangers with money making out of charity with due diligence or employment papers. 💛💜
-Would you like to back $1 on Kickstarter. It launches in 2029 so you won't get an email about it before then. Nice deal huh. ❤️🤍
-I even use a die to upfront planning. I get this, which means continue posting museums on Facebook for being seen as a real person. 💙🤍
+Would you like to back $1 on Kickstarter. It launches in 2029 so you won't get an email about it 
+before then. Nice deal huh. ❤️🤍
+I even use a die to upfront planning. I get this, which means continue posting museums 
+on Facebook for being seen as a real person. 💙🤍
 A spiritual remedy can be upfront reflection with dice roll. Life purpose beats dementia. ❤️💜
 Let's intertwine vintage ingenuity with modern wisdom. 💛💜
 Hipster renaissance of education, beautifully vintage chalkboards in a sea of iPads. 💚💜
@@ -12,10 +15,10 @@ Target the previous house instead. You can drive a car with one eye. ❤️💙
 From rune-filled tales to dazzling treasures, there's something for everyone.
 I want a video review to my campaign. What are your price? 🧡💙
 Hopefully someone will be helped by it. Purpose is more important than networking. 💛💙
-The cheetah uses its speed only to hunt, not to prove to the dogs that it is the fastest and strongest. 💚🤍
+The cheetah uses its speed only to hunt, not to prove to the dogs that it is the fastest. 💚🤍
 
 Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, LR 💜, UL ❤️, UR 💙. 
-1: 🤍💜💜🤍, 2: 🤍❤️❤️🤍, 3: 🤍💙💙🤍, 4: 💜❤️❤️💜, 5: 💜💙💙💜, 6: 💜🧡🧡💜, 7: ❤️💙💙❤️, 8: ❤️🧡🧡❤️, 
+1: 🤍💜💜🤍, 2: 🤍❤️❤️🤍, 3: 🤍💙💙🤍, 4: 💜❤️❤️💜, 5: 💜💙💙💜, 6: 💜🧡🧡💜, 7: ❤️💙💙❤️, 8: 🧡❤️, 
 9: ❤️💚💚❤️, 10: 💙🧡🧡💙, 11: 💙💚💚💙, 12: 💙💛💛💙, 13: 🧡💚💚🧡, 14: 🧡💛💛🧡, 15: 🧡🤍🤍🧡, 
 16: 💚💛💛💚, 17: 💚🤍🤍💚, 18: 💚💜💜💚, 19: 💛🤍🤍💛, 20: 💛💜💜💛, 21: 💛❤️❤️💛. Lucky numbers. 
 
