@@ -1,6 +1,6 @@
 # Social Media Tracking 
-Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
-Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, LR 💜, UL ❤️, UR 💙. 
+
+Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py) Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, LR 💜, UL ❤️, UR 💙. Here I argue that 1,11,9 is the best seeds to write from. 
 
 * 1: 💜🤍, 2: ❤️🤍, 3: 💙🤍, 4: ❤️💜, 5: 💜💙, 6: 🧡💜, 7: ❤️💙,
 * 9: ❤️💚, 10: 💙🧡, 11: 💙💚, 12: 💙💛, 13: 🧡💚, 14: 🧡💛, 15: 🧡🤍, 
@@ -21,7 +21,7 @@ Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, 
 6. Let's intertwine vintage ingenuity with modern wisdom. 💛💜
 7. Hipster renaissance of education, beautifully vintage chalkboards in a sea of iPads. 💚💜
 8. Target the previous house instead. You can drive a car with one eye. ❤️💙
-9. From rune-filled tales to dazzling treasures, there's something for everyone.
+9. From rune-filled tales to dazzling treasures, there's something for everyone. 💛🤍
 10. I want a video review to my campaign. What are your price? 🧡💙
 11. Hopefully someone will be helped by it. Purpose is more important than networking. 💛💙
 12. The cheetah uses its speed only to hunt, not to prove to the dogs that it is the fastest. 💚🤍
@@ -77,7 +77,7 @@ Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (Drive)
 * Initial Position: Type 9 - May be drawn to narratives that focus on stability.
 * Suspense: Type 6 - May be drawn to narratives that create a sense of anticipation.
 * Direct Proportion: Type 3 - Direct relationships between cause and effect. (Attachment)
-* Iteration: Type 1 - May enjoy consistency.
+* Iteration: Type 1 - May enjoy consistency and patterns.
 * Pause: Type 4 - May appreciate moments of reflection and introspection.
 * Surprise: Type 7 - unexpected twists and turns in a story. (Frustration)
 * Inverse Proportion: Type 5 - May be drawn to complex relationships and paradoxes.
