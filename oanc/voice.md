@@ -3,8 +3,8 @@
 Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py) Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, LR 💜, UL ❤️, UR 💙. Here I argue that 1,11,9 is the best seeds to write from. 
 
 * 1: 💜🤍, 2: ❤️🤍, 3: 💙🤍, 4: ❤️💜, 5: 💜💙, 6: 🧡💜, 7: ❤️💙,
-* 9: ❤️💚, 10: 💙🧡, 11: 💙💚, 12: 💙💛, 13: 🧡💚, 14: 🧡💛, 15: 🧡🤍, 
-* 16: 💛💚, 17: 💚🤍, 18: 💚💜, 19: 💛🤍, 20: 💛💜, 21: 💛❤️, 8: 🧡❤️.
+* 9: ❤️💚, 10: 💙🧡, 11: 💙💚, 12: 💙💛, 13: 🧡💚, 14: 🧡💛, 15: 🧡🤍, 8: 🧡❤️,
+* 16: 💛💚, 17: 💚🤍, 18: 💚💜, 19: 💛🤍, 20: 💛💜, 21: 💛❤️. 
 
 # Lucky numbers
 * [01, 19, 49, 66, 79], [15, 35, 59, 67, 73], [14, 17, 50, 62, 68], [04, 34, 53, 56, 71], 
