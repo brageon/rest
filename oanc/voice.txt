@@ -2,6 +2,19 @@ Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
 Score: [(10, 4.67), (3, 4.76), (12, 4.81), (8, 5.08), (4, 5.12), (2, 5.93), (11, 6.15), 
 (5, 6.21), (7, 6.83), (1, 7.17), (9, 7.3), (6, 7.43)]
 
+Line: 1 Neu: 0.42 Skew: -42.0 Rate: 8.55 Fuzz: 2.06 Zsc: 0.82
+Line: 2 Neu: 0.33 Skew: -37.1 Rate: 7.97 Fuzz: 2.09 Zsc: 0.73
+Line: 3 Neu: 0.2 Skew: -48.3 Rate: 9.88 Fuzz: 3.12 Zsc: 0.92
+Line: 4 Neu: 0.2 Skew: -41.1 Rate: 8.06 Fuzz: 2.93 Zsc: 0.75
+Line: 5 Neu: 0.36 Skew: -42.1 Rate: 9.93 Fuzz: 2.21 Zsc: 0.92
+Line: 6 Neu: 0.71 Skew: -41.7 Rate: 8.55 Fuzz: 1.22 Zsc: 0.82
+Line: 7 Neu: 0.42 Skew: -44.6 Rate: 3.8 Fuzz: 1.96 Zsc: 0.0
+Line: 8 Neu: 0.38 Skew: -43.8 Rate: 8.67 Fuzz: 2.12 Zsc: 0.83
+Line: 9 Neu: 0.5 Skew: -23.6 Rate: 6.74 Fuzz: 0.89 Zsc: 0.05
+Line: 10 Neu: 0.42 Skew: -38.2 Rate: 8.04 Fuzz: 1.8 Zsc: 0.75
+Line: 11 Neu: 0.38 Skew: -47.2 Rate: 8.55 Fuzz: 2.22 Zsc: 0.82
+Line: 12 Neu: 0.24 Skew: -48.6 Rate: 8.38 Fuzz: 2.9 Zsc: 0.8
+
 In practice you could mention Warren Buffet for being successful without collaboration. 💜🤍
 I help strangers with money making out of charity with due diligence or employment papers. 💛💜
 Would you like to back $1 on Kickstarter. It launches in 2029 so you won't get an email about it 
