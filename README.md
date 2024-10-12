@@ -1,5 +1,5 @@
 # RST - Heuristics to ranking
-This was meant for cognitive therapy by emotional awareness. In its current shape this repo can be used for copywriting. Why specific values before measure you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit. Zero product property is not applicable as first order unit. 
+This was meant for cognitive therapy by emotional awareness. In its current shape this repo can be used for copywriting. Why specific values before measure you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit because zero product property is not applicable. 
 
 ``` 
 GZ -= 0.3, ZG -= 0.6, TJ -= 0.5, JT -= 0.9, GG -= 0, ZZ -= 0, AA -= 0, JJ -= 0, TT -= 0, 
