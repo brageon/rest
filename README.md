@@ -1,5 +1,5 @@
 # RST - Heuristics to ranking
-This is meant for social awareness. In its current shape this repo can be used for copywriting. Why specific values before measurement you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit because zero product property is not applicable. 
+This is meant for social awareness and copywriting. Why specific values before measurement you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit because zero product property is not applicable. 
 
 ``` 
 GZ -= 0.3, ZG -= 0.6,
