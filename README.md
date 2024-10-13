@@ -11,7 +11,7 @@ Length of relevance with antithesis. Here I argue that 6 & 9 is the best seeds t
 # Manuscript Rate 🎖️
 1. In practice you could mention Warren Buffet for being successful without collaboration. 4.01
 2. I help strangers with money making out of charity with due diligence or employment papers. 3.21
-3. Would you back one dollar on Kickstarter. It launches in 2029 so you won't get an email about it before then. 2.29
+3. Would you back one dollar on Kickstarter. It launches in 2029 so you won't get an email about it before. 2.29
 4. I even use a die to upfront planning. I get this, which means continue posting museums on Facebook. 2.67
 5. A spiritual remedy can be upfront reflection with dice roll. Life purpose beats dementia. 3.44
 6. Let's intertwine vintage ingenuity with modern wisdom. 6.87
