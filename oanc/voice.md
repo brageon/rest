@@ -26,18 +26,18 @@ Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
 11. Hopefully someone will be helped by it. Purpose is more important than networking. 💛💙
 12. The cheetah uses its speed only to hunt, not to prove to the dogs that it is the fastest. 💚🤍
 
-* Score: 7.17 Neu: 0.42 Skew: -42.0 Rate: 8.55 Fuzz: 2.06 Zsc: 0.82 Drive: 8w9
-* Score: 5.93 Neu: 0.33 Skew: -37.1 Rate: 7.97 Fuzz: 2.09 Zsc: 0.73 Drive: NaN
-* Score: 4.76 Neu: 0.2 Skew: -48.3 Rate: 9.88 Fuzz: 3.12 Zsc: 0.92 Drive: 9w8
-* Score: 5.12 Neu: 0.2 Skew: -41.1 Rate: 8.06 Fuzz: 2.93 Zsc: 0.75 Drive: NaN
-* Score: 6.21 Neu: 0.36 Skew: -42.1 Rate: 9.93 Fuzz: 2.21 Zsc: 0.92 Drive: NaN
-* Score: 7.43 Neu: 0.71 Skew: -41.7 Rate: 8.55 Fuzz: 1.22 Zsc: 0.82 Drive: 9w1
-* Score: 6.83 Neu: 0.42 Skew: -44.6 Rate: 3.8 Fuzz: 1.96 Zsc: 0.0 Drive: NaN
-* Score: 5.08 Neu: 0.38 Skew: -43.8 Rate: 8.67 Fuzz: 2.12 Zsc: 0.83 Drive: NaN
-* Score: 7.30 Neu: 0.5 Skew: -23.6 Rate: 6.74 Fuzz: 0.89 Zsc: 0.05 Drive: 9w8
-* Score: 4.67 Neu: 0.42 Skew: -38.2 Rate: 8.04 Fuzz: 1.8 Zsc: 0.75 Drive: 2w3
-* Score: 6.15 Neu: 0.38 Skew: -47.2 Rate: 8.55 Fuzz: 2.22 Zsc: 0.82 Drive: 4w3
-* Score: 4.81 Neu: 0.24 Skew: -48.6 Rate: 8.38 Fuzz: 2.9 Zsc: 0.8 Drive: NaN
+* Score: 7.17 Neu: 0.42 Rate: 8.55 Try: 87.5 Lib: 4.17 Drive: 8w9
+* Score: 5.93 Neu: 0.33 Rate: 7.97 Try: 70.0 Lib: 6.67 Drive: NaN
+* Score: 4.76 Neu: 0.2  Rate: 9.88 Try: 42.0 Lib: 6.0  Drive: 9w8
+* Score: 5.12 Neu: 0.2  Rate: 8.06 Try: 42.0 Lib: 8.0  Drive: NaN
+* Score: 6.21 Neu: 0.36 Rate: 9.93 Try: 75.0 Lib: 10.71 Drive: NaN
+* Score: 7.43 Neu: 0.71 Rate: 8.55 Try: 150  Lib: 7.14 Drive: 9w1
+* Score: 6.83 Neu: 0.42 Rate: 3.8  Try: 87.5 Lib: 8.33 Drive: NaN
+* Score: 5.08 Neu: 0.38 Rate: 8.67 Try: 80.77 Lib: 3.85 Drive: NaN
+* Score: 7.30 Neu: 0.5  Rate: 6.74 Try: 105  Lib: 10.0 Drive: 9w8
+* Score: 4.67 Neu: 0.42 Rate: 8.04 Try: 87.5 Lib: 4.17 Drive: 2w3
+* Score: 6.15 Neu: 0.38 Rate: 8.55 Try: 80.77 Lib: 7.69 Drive: 4w3
+* Score: 4.81 Neu: 0.24 Rate: 8.38 Try: 50.0 Lib: 9.52 Drive: NaN
 
 # Dice is Fair
 * 01: Caput Draconis, 79, true until x : Dirt, S
