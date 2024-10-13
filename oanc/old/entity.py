@@ -1,4 +1,4 @@
-import spacy
+ino/entity.pyimport spacy
 nlp = spacy.load("en_core_web_sm")
 with open("sw2001.txt", "r") as file:
     text = file.read()
