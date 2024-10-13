@@ -6,13 +6,7 @@ Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
 * 9: ❤️💚, 10: 💙🧡, 11: 💙💚, 12: 💙💛, 13: 🧡💚, 14: 🧡💛, 15: 🧡🤍, 8: 🧡❤️,
 * 16: 💛💚, 17: 💚🤍, 18: 💚💜, 19: 💛🤍, 20: 💛💜, 21: 💛❤️. 
 
-# Lucky Numbers
-* [01, 19, 49, 66, 79], [15, 35, 59, 67, 73], [14, 17, 50, 62, 68], [04, 34, 53, 56, 71], 
-* [12, 36, 44, 60, 76], [06, 18, 21, 51, 75], [07, 29, 47, 58, 74], [09, 25, 37, 48, 72],  
-* [08, 31, 40, 77, 80], [10, 20, 24, 43, 63], [11, 52, 55, 61, 70], [05, 23, 28, 39, 46], 
-* [13, 27, 33, 42, 54], [03, 30, 45, 65, 78], [02, 32, 38, 57, 69], [16, 22, 26, 41, 64]. 
-
-# Manuscript Rate
+# Manuscript Rate 🎖️
 1. In practice you could mention Warren Buffet for being successful without collaboration. 💜🤍
 2. I help strangers with money making out of charity with due diligence or employment papers. 💛💜
 3. Would you back $1 on Kickstarter. It launches in 2029 so you won't get an email about it before then. ❤️🤍
@@ -39,7 +33,13 @@ Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
 * Score: 6.15 Neu: 0.38 Rate: 8.55 Try: 80.77 Lib: 7.690 Drive: 4w3
 * Score: 4.81 Neu: 0.24 Rate: 8.38 Try: 50.00 Lib: 9.520 Drive: NaN
 
-# Dice is Fair
+# Lucky Numbers 🍀
+* [01, 19, 49, 66, 79], [15, 35, 59, 67, 73], [14, 17, 50, 62, 68], [04, 34, 53, 56, 71], 
+* [12, 36, 44, 60, 76], [06, 18, 21, 51, 75], [07, 29, 47, 58, 74], [09, 25, 37, 48, 72],  
+* [08, 31, 40, 77, 80], [10, 20, 24, 43, 63], [11, 52, 55, 61, 70], [05, 23, 28, 39, 46], 
+* [13, 27, 33, 42, 54], [03, 30, 45, 65, 78], [02, 32, 38, 57, 69], [16, 22, 26, 41, 64].
+
+# Dice is Fair 🎲
 * 01: Caput Draconis, true until x : Dirt, S
 * 15: Puella, solidarity, post-hire : Water, S
 * 14: Puer, humor, pre-hire : Air, Mutable 
@@ -57,7 +57,7 @@ Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
 * 02: Via, supply shortage : Water, Mutable 
 * 16: Rubeus, tao whirlwind : Air, Mutable
 
-# Storyboarding 
+# Storyboarding 🎬
 Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (Drive)
 1. Opening Image: Initial Position (sets the scene)
 2. Setup: Iteration (recurring elements and themes)
@@ -73,7 +73,7 @@ Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (Drive)
 12. Finale: Terminal Position (the final resolution)
 13. Final Image: Initial Position (a return to the opening, often with a new idea)
 
-# Emphases
+# Emphases ⚖️
 * Initial Position: Type 9 - May be drawn to narratives that focus on stability.
 * Suspense: Type 6 - May be drawn to narratives that create a sense of anticipation.
 * Direct Proportion: Type 3 - Direct relationships between cause and effect. (Attachment)
