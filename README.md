@@ -1,5 +1,5 @@
 # RST - Rank Speech Trophy 🏆
-This is meant for social awareness and copywriting. Why specific values before measurement you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit because zero product property is not applicable.  
+This is meant for social awareness and copywriting. Why specific values before measurement you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit.  
 
 ``` 
 GZ -= 0.3, ZG -= 0.6, TJ -= 0.5, JT -= 0.9, GG -= 0, ZZ -= 0,
@@ -13,4 +13,4 @@ averaged_perceptron_tagger (6 MB) said bias from POS tags is -5,013 / 35 = -0.14
 Deprecated code (nltk) with calc had 111 in cognitve complexity (flake8).
 ```
 
-Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I have added common criterias to determine expertise in software making. Concurrent hash table is not possible with GIL. 
+Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I´ve added criterias to determine expertise in software making. Concurrent hash table don´t work with GIL. 
