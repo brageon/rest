@@ -26,36 +26,36 @@ Length of relevance. Try is antithesis. Lib is right as Stephen Hicks. (rest.py)
 11. Hopefully someone will be helped by it. Purpose is more important than networking. 💛💙
 12. The cheetah uses its speed only to hunt, not to prove to the dogs that it is the fastest. 💚🤍
 
-* Score: 7.17 Neu: 0.42 Rate: 8.55 Try: 87.5 Lib: 4.17 Drive: 8w9
-* Score: 5.93 Neu: 0.33 Rate: 7.97 Try: 70.0 Lib: 6.67 Drive: NaN
-* Score: 4.76 Neu: 0.2  Rate: 9.88 Try: 42.0 Lib: 6.0  Drive: 9w8
-* Score: 5.12 Neu: 0.2  Rate: 8.06 Try: 42.0 Lib: 8.0  Drive: NaN
-* Score: 6.21 Neu: 0.36 Rate: 9.93 Try: 75.0 Lib: 10.71 Drive: NaN
-* Score: 7.43 Neu: 0.71 Rate: 8.55 Try: 150  Lib: 7.14 Drive: 9w1
-* Score: 6.83 Neu: 0.42 Rate: 3.8  Try: 87.5 Lib: 8.33 Drive: NaN
-* Score: 5.08 Neu: 0.38 Rate: 8.67 Try: 80.77 Lib: 3.85 Drive: NaN
-* Score: 7.30 Neu: 0.5  Rate: 6.74 Try: 105  Lib: 10.0 Drive: 9w8
-* Score: 4.67 Neu: 0.42 Rate: 8.04 Try: 87.5 Lib: 4.17 Drive: 2w3
-* Score: 6.15 Neu: 0.38 Rate: 8.55 Try: 80.77 Lib: 7.69 Drive: 4w3
-* Score: 4.81 Neu: 0.24 Rate: 8.38 Try: 50.0 Lib: 9.52 Drive: NaN
+* Score: 7.17 Neu: 0.42 Rate: 8.55 Try: 87.50 Lib: 4.170 Drive: 8w9
+* Score: 5.93 Neu: 0.33 Rate: 7.97 Try: 70.00 Lib: 6.670 Drive: NaN
+* Score: 4.76 Neu: 0.20 Rate: 9.88 Try: 42.00 Lib: 6.000 Drive: 9w8
+* Score: 5.12 Neu: 0.20 Rate: 8.06 Try: 42.00 Lib: 8.000 Drive: NaN
+* Score: 6.21 Neu: 0.36 Rate: 9.93 Try: 75.00 Lib: 10.71 Drive: NaN
+* Score: 7.43 Neu: 0.71 Rate: 8.55 Try: 150.0 Lib: 7.140 Drive: 9w1
+* Score: 6.83 Neu: 0.42 Rate: 3.80 Try: 87.50 Lib: 8.330 Drive: NaN
+* Score: 5.08 Neu: 0.38 Rate: 8.67 Try: 80.77 Lib: 3.850 Drive: NaN
+* Score: 7.30 Neu: 0.50 Rate: 6.74 Try: 105.0 Lib: 10.00 Drive: 9w8
+* Score: 4.67 Neu: 0.42 Rate: 8.04 Try: 87.50 Lib: 4.170 Drive: 2w3
+* Score: 6.15 Neu: 0.38 Rate: 8.55 Try: 80.77 Lib: 7.690 Drive: 4w3
+* Score: 4.81 Neu: 0.24 Rate: 8.38 Try: 50.00 Lib: 9.520 Drive: NaN
 
 # Dice is Fair
-* 01: Caput Draconis, 79, true until x : Dirt, S
-* 15: Puella, 59, solidarity, post-hire : Aqua, S
-* 14: Puer, 68, humor, pre-hire : Air, M
-* 04: Cauda Draconis, 56, bad ending : Fire, M
-* 12: Acquisito, 60, savings-flipping : Air, S
-* 06: Conjunctio, 51, mind experiment : Air, M
-* 07: Carcer, 58, hateful followers : Dirt, S
-* 09: Amissio, 25, loss but love : Fire, M
-* 08: Fortuna Major, 40, venture capital : Dirt, S
-* 10: Laetitia, 20, altruism, freelancing : Fire, M
-* 11: Tristitia, 70, yoke, storyboarding : Dirt, S
-* 05: Fortuna Minor, 46, owl/roi betting : Fire, M
-* 13: Albus, 33, metrics, emission : Aqua, S
-* 03: Populus, 30, group meetings : Aqua, S
-* 02: Via, 69, supply shortage : Aqua, M
-* 16: Rubeus, 64, tao whirlwind : Air, M
+* 01: Caput Draconis, true until x : Dirt, S
+* 15: Puella, solidarity, post-hire : Water, S
+* 14: Puer, humor, pre-hire : Air, Mutable 
+* 04: Cauda Draconis, bad/abrupt ending : Fire, M
+* 12: Acquisito, savings-flipping : Air, Solid 
+* 06: Conjunctio, mind experiment : Air, Mutable 
+* 07: Carcer, hateful followers : Dirt, Solid
+* 09: Amissio, loss but love : Fire, Mutable
+* 08: Fortuna Major, venture capital : Dirt, S
+* 10: Laetitia, altruism, freelancing : Fire, M
+* 11: Tristitia, yoke, storyboarding : Dirt, S
+* 05: Fortuna Minor, owl/roi betting : Fire, M
+* 13: Albus, metrics/emission : Water, Solid 
+* 03: Populus, group meetings : Water, Solid
+* 02: Via, supply shortage : Water, Mutable 
+* 16: Rubeus, tao whirlwind : Air, Mutable
 
 # Storyboarding 
 Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (Drive)
