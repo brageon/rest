@@ -1,4 +1,4 @@
-# RST - Rate Speech Trophy 🏆
+# RST - Rank Speech Trophy 🏆
 This is meant for social awareness and copywriting. Why specific values before measurement you might ask. Intuition. Celsius used water as unit and I use political rhetorics from 2018 as unit because zero product property is not applicable.  
 
 ``` 
