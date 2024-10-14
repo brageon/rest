@@ -16,22 +16,14 @@ Deprecated code (nltk) with calc had 111 in cognitve complexity (flake8).
 Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I´ve added criterias to determine expertise in software making. Concurrent hash table don´t work with GIL.
 
 # Dice is Fair 🎲
-* 01: Caput Draconis, true until x : Dirt, S
-* 15: Puella, solidarity, post-hire : Water, S
-* 14: Puer, humor, pre-hire : Air, Mutable 
-* 04: Cauda Draconis, bad/abrupt ending : Fire, M
-* 12: Acquisito, savings-flipping : Air, Solid 
-* 06: Conjunctio, mind experiment : Air, Mutable 
-* 07: Carcer, hateful followers : Dirt, Solid
-* 09: Amissio, loss but love : Fire, Mutable
-* 08: Fortuna Major, venture capital : Dirt, S
-* 10: Laetitia, altruism, freelancing : Fire, M
-* 11: Tristitia, yoke, storyboarding : Dirt, S
-* 05: Fortuna Minor, owl/roi betting : Fire, M
-* 13: Albus, metrics/emission : Water, Solid 
-* 03: Populus, group meetings : Water, Solid
-* 02: Via, supply shortage : Water, Mutable 
-* 16: Rubeus, tao whirlwind : Air, Mutable
+* 01: Caput Draconis, true until x : Dirt, S. 15: Puella, solidarity, post-hire : Water, S.
+* 14: Puer, humor, pre-hire : Air, M. 04: Cauda Draconis, bad/abrupt ending : Fire, M.
+* 12: Acquisito, savings-flipping : Air, Solid. 06: Conjunctio, mind experiment : Air, M.
+* 07: Carcer, hateful followers : Dirt, S. 09: Amissio, loss but love : Fire, Mutable.
+* 08: Fortuna Major, venture : Dirt, S. 10: Laetitia, altruism, freelancing : Fire, M.
+* 11: Tristitia, yoke, storyboarding : Dirt, S. 05: Fortuna Minor, owl/roi betting : Fire.
+* 13: Albus, metrics/emission : Water, Solid. 03: Populus, group meetings : Water, S.
+* 02: Via, supply shortage : Water, Mutable. 16: Rubeus, tao whirlwind : Air, M.
 
 Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, LR 💜, UL ❤️, UR 💙. Insipid is undefined Enneagram at uclassify.com
 
