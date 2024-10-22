@@ -10,17 +10,12 @@ Length of relevance with antithesis. Here I argue that 6 & 9 is the best seeds t
 
 # Manuscript Rate 🎖️
 1. In practice you could mention Warren Buffet for being successful without collaboration. 4.01
-2. I help strangers with money making out of charity with due diligence or employment papers. 3.21
+2. The cheetah only uses it's speed to hunt, not to prove to dogs that it is the fastest. 2.53
 3. Would you back one dollar on Kickstarter. It launches in 2029 so you won't get an email about it before. 2.29
-4. I even use a die to upfront planning. I get this, which means continue posting museums on Facebook. 2.67
-5. A spiritual remedy can be upfront reflection with dice roll. Life purpose beats dementia. 3.44
-6. Let's intertwine vintage ingenuity with modern wisdom. 6.87
-7. Hipster renaissance of education, beautifully vintage chalkboards in a sea of iPads. 4.01
-8. Target the previous house instead. You can drive a car with one eye. 3.7
-9. From rune-filled tales to dazzling treasures, there's something for everyone. 4.81
-10. I want a video review to my campaign. What are your price? 4.01
-11. Hopefully someone will be helped by it. Purpose is more important than networking. 3.7
-12. The cheetah uses its speed only to hunt, not to prove to the dogs that it is the fastest. 2.53
+4. A spiritual remedy can be upfront reflection with dice roll. Life purpose beats dementia. 3.44
+5. From rune-filled tales to dazzling treasures, there's something for everyone. 4.81
+6. Make a video game to emotionally bond with someone. 4.88
+7. Let's intertwine vintage ingenuity with modern wisdom. 6.87
 
 # Lucky Numbers 🍀
 * [01, 19, 49, 66, 79], [15, 35, 59, 67, 73], [14, 17, 50, 62, 68], [04, 34, 53, 56, 71], 
@@ -29,7 +24,7 @@ Length of relevance with antithesis. Here I argue that 6 & 9 is the best seeds t
 * [13, 27, 33, 42, 54], [03, 30, 45, 65, 78], [02, 32, 38, 57, 69], [16, 22, 26, 41, 64].
 
 # Storyboarding 🎬
-Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (6th: 9w1)
+Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (7th: 9w1)
 1. Opening Image: Initial Position (sets the scene)
 2. Setup: Iteration (recurring elements and themes)
 3. Theme: Antithesis (contrasts the hero's situation with their desire)
@@ -43,3 +38,6 @@ Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (6th: 9w1)
 11. Break into Three: Inverse Proportion (to suspense)
 12. Finale: Terminal Position (the final resolution)
 13. Final Image: Initial Position (a return to the opening, often with a new idea)
+
+# Application 🏆
+Make a video game to emotionally bond with someone. Plot: 4w5 epiphany, cliffhanger. Spiral topic: 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion.
