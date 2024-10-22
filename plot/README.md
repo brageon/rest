@@ -25,11 +25,4 @@ Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: 
 * 13: Albus, metrics/emission : Water, Solid. 03: Populus, group meetings : Water, S.
 * 02: Via, supply shortage : Water, Mutable. 16: Rubeus, tao whirlwind : Air, M.
 
-# Social Matrix 
-
-Content: Graves Values 1-7 at left and Wilber Integral at right. LL beige 🤍, LR 💜, UL ❤️, UR 💙. Insipid is undefined Enneagram at uclassify.com while GW is NER pitch. Pluralism of ordinal numbers such as numerology define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". GW topics would be ❤️ "biased=preference" and 🤍 "insipid=boring". Populus is tribal.   
-
-* 01: 💜🤍, 02: ❤️🤍, 03: 💙🤍, 04: ❤️💜, 05: 💜💙, 06: 🧡💜, 07: ❤️💙, 09: ❤️💚, 
-* 10: 💙🧡, 11: 💙💚, 12: 💙💛, 13: 🧡💚, 14: 🧡💛, 15: 🧡🤍, 08: 🧡❤️, 16: 💛💚, 
-* 17: 💚🤍, 18: 💚💜, 19: 💛🤍, 20: 💛💜. Via is High Priestess / Empress 03.
-* 03: 05, 04: 07, 05: 09, 06: 11, 07: 13, 08: 15, 09: 17, 10: 19, 11: 21. 
+Insipid is undefined Enneagram at uclassify.com while Spiral is NER pitch. Pluralism of ordinal numbers such as numerology of 96 posts define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". NER would be "biased=preference" and "insipid=boring".
