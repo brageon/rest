@@ -40,4 +40,4 @@ Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (7th: 9w1)
 13. Final Image: Initial Position (a return to the opening, often with a new idea)
 
 # Application 🏆
-Make a video game to emotionally bond with someone. Plot: 4w5 epiphany, cliffhanger. Spiral topic: 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion.
+Make a video game to emotionally bond with someone. Plot: 4w5 epiphany, cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation?ch=15&oid=187494565&share=65e4fe15&srid=3XMLyF&target_type=post): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion.
