@@ -1,8 +1,4 @@
-# Social Media Tracking 🏆
-
-Length of relevance with antithesis. Here I argue that 6 & 9 is the best seeds to write from. **IUP** is humbug for market trends. *Stylish shoes for flip-flops are valid off the beach.* Overtaking 9w8 in 2nd rank. Use this with fictional quotes to design the environment. 
-
-# How To Setup
+# How To Setup 🏆
 1. Download oanc/pick/english.pickle
 2. ```python3 -m pip install spacy, pickle```
 3. Edit oanc/oak.txt
@@ -34,6 +30,6 @@ Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (7th: 9w1)
 13. Final Image: Initial Position (a return to the opening, often with a new idea)
 
 # Application 🔑
-Make a video game to emotionally bond with someone. [Plot](https://newresearchmethod.quora.com/In-practice-you-could-mention-Warren-Buffet-for-being-successful-without-collaboration-The-cheetah-uses-its-speed-onl): 4w5 epiphany, cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion. Type this comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover or discussion subject. 
+Make a video game to emotionally bond with someone. [Plot](https://newresearchmethod.quora.com/In-practice-you-could-mention-Warren-Buffet-for-being-successful-without-collaboration-The-cheetah-uses-its-speed-onl): 4w5 epiphany / cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion. Type this comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover / discussion subject. 
 
 Practice video editing of music videos to know the motif (thumbnail) and arc words (titles) in marketing. The frames in plot of taste is hook, meet cute, motif, arc words, foreshadow, montage, delayed reveal, epiphany, and cliffhanger. The other 4 zenith plots are 8w9 motif/arc, 2w3 hook/cute, 6w7 fore/mont, 5w6 reveal/epi.
