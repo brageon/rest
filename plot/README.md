@@ -25,4 +25,4 @@ Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: 
 * 13: Albus, metrics/emission : Water, Solid. 03: Populus, group meetings : Water, S.
 * 02: Via, supply shortage : Water, Mutable. 16: Rubeus, tao whirlwind : Air, M.
 
-Insipid is undefined Enneagram at uclassify.com while Spiral is NER pitch. Pluralism of ordinal numbers such as numerology of 96 posts define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". NER would be "biased=preference" and "insipid=boring".
+Insipid is undefined Enneagram at uclassify.com while Spiral is NER pitch. Pluralism of ordinal numbers of 96 posts define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". NER would be "biased=preference" and "insipid=boring".
