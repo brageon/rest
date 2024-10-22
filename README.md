@@ -17,12 +17,6 @@ Length of relevance with antithesis. Here I argue that 6 & 9 is the best seeds t
 6. Make a video game to emotionally bond with someone. 4.88
 7. Let's intertwine vintage ingenuity with modern wisdom. 6.87
 
-# Lucky Numbers 🍀
-* [01, 19, 49, 66, 79], [15, 35, 59, 67, 73], [14, 17, 50, 62, 68], [04, 34, 53, 56, 71], 
-* [12, 36, 44, 60, 76], [06, 18, 21, 51, 75], [07, 29, 47, 58, 74], [09, 25, 37, 48, 72],  
-* [08, 31, 40, 77, 80], [10, 20, 24, 43, 63], [11, 52, 55, 61, 70], [05, 23, 28, 39, 46], 
-* [13, 27, 33, 42, 54], [03, 30, 45, 65, 78], [02, 32, 38, 57, 69], [16, 22, 26, 41, 64].
-
 # Storyboarding 🎬
 Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (7th: 9w1)
 1. Opening Image: Initial Position (sets the scene)
@@ -42,4 +36,4 @@ Blake Snyder: 9-1-2-3-8-7-x-5-6-8-4-5-9 (7th: 9w1)
 # Application 🔑
 Make a video game to emotionally bond with someone. [Plot](https://newresearchmethod.quora.com/In-practice-you-could-mention-Warren-Buffet-for-being-successful-without-collaboration-The-cheetah-uses-its-speed-onl): 4w5 epiphany, cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion. Type this comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover or discussion subject. 
 
-Practice video editing of music videos to know the motif (thumbnail) and arc words (titles) in marketing. The frames in plot of taste is hook, meet cute, motif, arc words, foreshadow, montage, delayed reveal, epiphany, cliffhanger. 
+Practice video editing of music videos to know the motif (thumbnail) and arc words (titles) in marketing. The frames in plot of taste is hook, meet cute, motif, arc words, foreshadow, montage, delayed reveal, epiphany, and cliffhanger. The other 4 zenith plots are 8w9 motif/arc, 2w3 hook/cute, 6w7 fore/mont, 5w6 reveal/epi.
