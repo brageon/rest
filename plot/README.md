@@ -19,4 +19,3 @@ Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: 
 D all-in, C raise, N fold<bluff, H knock. [(8,10,11,5)(creative, fire)],[(13,2,3,16)(normative, air, insipid)],[(12,6,7,9)(harmonic, water, biased)],[(1,15,14,4)(dominant, earth)]
 
 Insipid is undefined Enneagram (asking) at uclassify.com while Spiral is NER pitch. Pluralism of ordinal numbers from 96 posts define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". NER would be "biased=preference" and "insipid=boring".
-D all-in, C raise, N fold<bluff, H knock. 8,10,11,5 = creative, fire. 13,2,3,16 = normative, air, insipid. 12,6,7,9 = harmonic, water, biased. 1,15,14,4 = dominant, earth. 
