@@ -16,6 +16,6 @@
 # Application 🏆
 Make a video game to emotionally bond with someone. [Plot](https://newresearchmethod.quora.com/In-practice-you-could-mention-Warren-Buffet-for-being-successful-without-collaboration-The-cheetah-uses-its-speed-onl): 4w5 epiphany / cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Blue perception. Plot discernment. Glamour reasoning. Rank completion. 
 
-Declaring: ESE 1.5, SEI 1.8, LSI 2.3, SLE 3, LIE 3.6, ILI 4.6 in the word mean. Type the comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover. Discuss absolutism (blue in Graves).
+Declaring: ESE 1.5, SEI 1.8, LSI 2.3, SLE 3, LIE 3.6, ILI 4.6 in the word mean. Type the comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover. Discuss absolutism - blue in Graves.
 
 Practice video editing to know the motif (thumbnail) and arc words (titles) in marketing. The frames in plot of taste is hook, meet cute, motif, arc words, foreshadow, montage, delayed reveal, epiphany, and cliffhanger. The other 4 zenith plots are 8w9 motif/arc, 2w3 hook/cute, 6w7 fore/mont, 5w6 reveal/epi.
