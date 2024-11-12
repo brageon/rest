@@ -16,13 +16,7 @@ Deprecated code (nltk) with calc had 111 in cognitve complexity (flake8).
 Repo A *oak* was deployed first by Netlify, Vercel and lastly GitHub. Workflow: gh-pages, api gateway, lambda, s3, repo, codebuild, redis, s3. Beside DevOps one can use **oanc** as spreadsheet macro for creative discernment. In *debt* I´ve added criterias to determine expertise in software making. Concurrent hash table don´t work with GIL.
 
 # Dice is Fair 🎲
-* 01: Caput Draconis, true until x : Dirt, S. 15: Puella, solidarity, post-hire : Water, S.
-* 14: Puer, humor, pre-hire : Air, M. 04: Cauda Draconis, bad/abrupt ending : Fire, M.
-* 12: Acquisito, savings-flipping : Air, Solid. 06: Conjunctio, mind experiment : Air, M.
-* 07: Carcer, hateful followers : Dirt, S. 09: Amissio, loss but love : Fire, Mutable.
-* 08: Fortuna Major, venture : Dirt, S. 10: Laetitia, altruism, freelancing : Fire, M.
-* 11: Tristitia, yoke, storyboarding : Dirt, S. 05: Fortuna Minor, owl/roi betting : Fire.
-* 13: Albus, metrics/emission : Water, Solid. 03: Populus, group meetings : Water, S.
-* 02: Via, supply shortage : Water, Mutable. 16: Rubeus, tao whirlwind : Air, M.
+D all-in, C raise, N fold<bluff, H knock. [(8,10,11,5)(creative, fire)],[(13,2,3,16)(normative, air, insipid)],[(12,6,7,9)(harmonic, water, biased)],[(1,15,14,4)(dominant, earth)]
 
-Insipid is undefined Enneagram at uclassify.com while Spiral is NER pitch. Pluralism of ordinal numbers from 96 posts define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". NER would be "biased=preference" and "insipid=boring".
+Insipid is undefined Enneagram (asking) at uclassify.com while Spiral is NER pitch. Pluralism of ordinal numbers from 96 posts define the content. My 22nd question is "Is it worse to be biased or insipid" and in 16 hours I got 968 views and 4 answers. The content is an extension to 13th answer with "What is the best product to sell online for women". NER would be "biased=preference" and "insipid=boring".
+D all-in, C raise, N fold<bluff, H knock. 8,10,11,5 = creative, fire. 13,2,3,16 = normative, air, insipid. 12,6,7,9 = harmonic, water, biased. 1,15,14,4 = dominant, earth. 
