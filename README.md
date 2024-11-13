@@ -16,7 +16,7 @@
 # Application 🏆
 Make a video game to emotionally bond with someone. [Plot](https://newresearchmethod.quora.com/In-practice-you-could-mention-Warren-Buffet-for-being-successful-without-collaboration-The-cheetah-uses-its-speed-onl): 4w5 epiphany / cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Gravesian value perception is blue. Plot discernment. Glamour reasoning. Rank completion. 
 
-Type the comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover to discuss absolutism. DQ score are obtained from words per stars. More to less is De-Di directional strength. De-Qi are podcasts while Di-Qe are books. More stars are not better just different.
+Type the comment to someone with 5 stars at the right time (glamour). Use her book as frontend cover to discuss absolutism. DQ score are obtained from words per stars. More to less is the De-Di directional strength. De-Qi is podcasts while Di-Qe is books. More stars are not better just different.
 
 Declaring: LIE 9/8, ESE 9/7, ILI 9/6, SEI 9/5, LSI 9/4, EII 9/3, SLE 9/2. Questioning: ESI 9/8, LII 9/7, SEE 9/6, ILE 9/5, EIE 9/4, LSE 9/3, IEI 9/2.
 
