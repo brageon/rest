@@ -76,12 +76,13 @@ class GaFe:
         return len(duck), len(matches)
         
     def mine(self):
+        anchors = [10/9, 10/8, 10/7, 10/6, 10/5, 10/4, 10/3, 10/2]
+        letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
         with open('oak.txt', 'r') as file:
             lines = file.readlines()
         for num, line in enumerate(lines):
             rex = num + 1
-            wco = len(line.split())
-            wco = wco * 2
+            wco = len(line.split()) * 2
             spacy_output = self.get_pos_tags(line)
             word_spans = [self.classify_tag(tag) for tag in spacy_output]
             word_spans = " ".join(word_spans)
@@ -89,7 +90,9 @@ class GaFe:
             dual = duck / wco
             val = self.yuno()
             dual = round(val * dual, 2)
-            print("{:02d}".format(rex), f"{dual:.2f}")
+            closest_index = min(range(len(anchors)), key=lambda i: abs(anchors[i] - dual))
+            anchor = letters[closest_index]
+            print("{:02d}".format(rex), f"{dual:.2f}", f"{anchor}")
               
 bacl = GaFe()
 drive = bacl.mine()
