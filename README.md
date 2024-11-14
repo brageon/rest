@@ -14,7 +14,7 @@
 7. Let's intertwine vintage ingenuity with modern wisdom. 6.87
 
 # PokerStars 🃏
-Declaring: LIE 9/8, ESE 9/7, ILI 9/6, SEI 9/5, LSI 9/4, EII 9/3, SLE 9/2. Questioning: ESI 9/8, LII 9/7, SEE 9/6, ILE 9/5, EIE 9/4, LSE 9/3, IEI 9/2. "Is there more than one way? Yes" 4w5. N[De(Ji, Si), air, fold], D[Di(Je, Se), earth, all-in], H[Qi(Pi, Fi), water, knock], C[Qe(Pe, Fe), fire, raise].
+Declaring: LIE 9/8, ESE 9/7, ILI 9/6, SEI 9/5, LSI 9/4, EII 9/3, SLE 9/2. Questioning: ESI 9/8, LII 9/7, SEE 9/6, ILE 9/5, EIE 9/4, LSE 9/3, IEI 9/2. "Is there more than one way? Yes" 4w5. H[De(Pi, Fi), water, knock], D[Di(Je, Se), earth, all-in], N[Qi(Ji, Si), air, fold], C[Qe(Pe, Fe), fire, raise].
 
 * Probability in %. Right column ie DiDi-De. More often is a subtype.
    
