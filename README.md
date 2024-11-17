@@ -15,14 +15,14 @@
 
 # PokerStars 🃏
 Declaring: LIE 9/8, ESE 9/7, ILI 9/6, SEI 9/5, LSI 9/4, EII 9/3, SLE 9/2. Questioning: ESI 9/8, LII 9/7, SEE 9/6, ILE 9/5, EIE 9/4, LSE 9/3, IEI 9/2. "Is there more than one way? Yes" 4w5. H[De(Pi, Fi), water, knock], D[Di(Je, Se), earth, all-in], N[Qi(Ji, Si), air, fold], C[Qe(Pe, Fe), fire, raise].
-
-* Probability in %. Right column ie DiDi-De. More often is a subtype.
-   
-1. DiQe: 52H 26N 16C 06D. DiDi: 57H 29C 07N 07D
-2. DiDe: 47C 23H 23N 06D. DiQi: 36C 27D 18N 18H
-3. QiDe: 25D 25C 25H 25N. QiQe: 33D 33C 17N 17H
-4. QiQi: 31C 31N 31D 07H. DeQe: 38D 38C 19H 05N
-5. DeDe: 40N 40D 10C 10H. QeQe: 61N 23D 08C 08H
+```
+Probability in %. Right columns is subtype. Relative position. 
+```
+1. DiQe: 52N 26H 16C 06D. 1 % Straight. DiDi: 57N 29C 07H 07D. 2 % 3-kind.
+2. DiDe: 47C 23H 23N 06D. 2 % 3-kind. DiQi: 36C 27D 18N 18H. 5 % 2-pair. 
+3. QiDe: 25D 25C 25H 25N. High card. QiQe: 33D 33C 17N 17H. 5 % 2-pair. 
+4. QiQi: 31C 31N 31D 07H. 5 % 2-pair. DeQe: 38D 38C 19H 05N. 2 % 3-kind.
+5. DeDe: 40N 40D 10C 10H. 5 % 2-pair. QeQe: 61N 23D 08C 08H. 2 % 3-kind. 
 
 # Discussion 💻
 Make a video game to emotionally bond with someone. [Plot](https://newresearchmethod.quora.com/In-practice-you-could-mention-Warren-Buffet-for-being-successful-without-collaboration-The-cheetah-uses-its-speed-onl): 4w5 epiphany / cliffhanger. Spiral [topic](https://newresearchmethod.quora.com/My-answers-as-Koans-to-symbolic-framework-of-Tarot-reading-Those-answers-are-further-abstracted-to-Bible-interpretation): 49, 67, 46, 54. Glamour: 01, 15, 05, 13. Rank: 4.88 (followers' iup). Ophelia is 5 stars by her quotes. Gravesian value perception is blue. Plot discernment. Glamour reasoning. Rank completion. 
