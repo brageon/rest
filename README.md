@@ -15,7 +15,7 @@
 8. ITR: DNND, NCCN, HDDH, CHHC. 
 
 # Typology✨
-Asking: SEE 14/13, ILE 14/12, IEI 14/11, ESE 14/10, LSI 14/9, SLI 14/8. Declaring: SLE 14/7, EIE 14/6. ILI 14/5, ESI 14/4, SEI 14/3, LSE 14/2. "Is there more than one way? Yes" 4w5. ITR: CDHNCD. 
+Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2. "Is there more than one way? Yes" 4w5. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
 ```
 Probability in %. Right columns is subtype. Relative position. 
 ```
