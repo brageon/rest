@@ -4,7 +4,7 @@
 3. Edit oanc/oak.txt
 4. ```python3 oanc/king.py | sort -k2 -nr```
 
-# Sales Agency 🐠
+# Sales Agency🎖️
 1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4 rst.```
 2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8.```
 3. 1 mol: 0.4 rst. 2 mol: 4.25 rst. Variance: 11.
@@ -19,10 +19,10 @@ Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring
 ```
 Probability in %. Right columns is subtype. Relative position. 
 ```
-1. DiQe: 52N 26H 16C 06D. DiDi: 57N 29C 07H 07D.
-2. DiDe: 47C 23H 23N 06D. DiQi: 36C 27D 18N 18H. 
-3. QiDe: 25D 25C 25H 25N. QiQe: 33D 33C 17N 17H. 
-4. QiQi: 31C 31N 31D 07H. DeQe: 38D 38C 19H 05N.
+1. DiQi: 36C 27D 18N 18H. DiQe: 52N 26H 16C 06D.
+2. QiDe: 25D 25C 25H 25N. QiQi: 31C 31N 31D 07H.
+3. QiQe: 33D 33C 17N 17H. DiDe: 47C 23H 23N 06D.
+4. DeQe: 38D 38C 19H. DiDi: 57N 29C 07H 07D.
 5. DeDe: 40N 40D 10C 10H. QeQe: 61N 23D 08C 08H.
    
 # Discussion 🗯️
