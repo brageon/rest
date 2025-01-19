@@ -17,7 +17,7 @@
 *At chat.txt you can see how I review scripts with Colab on my phone. I always have two tools for separate problems, e.g. **rest** as a backup.*
 
 1. Gimmeserendipty: ENFJ/IXTP or EIE-ND, QeQe. 10/3 calls
-2. Rest: F or SLI, ISTJ. Here DC, QiQe. "breaking rules" when contradicted. 8 calls with np.sqrt
+2. Rest: F or SLI, ISTJ. Here DC, QiQe. 8/8 calls with np.sqrt
 
 # Typology🎭
 Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2. "Is there more than one way? Yes" 4w5. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
