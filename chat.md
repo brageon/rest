@@ -6,8 +6,8 @@
 4. Don't think too much. At the interview I might be a business "HD" with clear goals.
 5. At work and/or poker, I'm more focused, sorted.
 
-```CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.```
-
+CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.
+```
 1. Of course I don't tell my colleagues straight away as it would be overwhelming.
 2. Ignore: Instead it will be step by step to give 4 skills instead of 16. 2:1
 3. Hi Daniel, hope you are well! # 3:2
@@ -31,6 +31,9 @@
 21. Colleagues like me but I am indifferent to them.
 22. People think I am shy because of "projection" as I already know they have nothing valuable
 ```
+1. Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7.
+2. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2.
+```
 01 1.21 B,,, 02 2.61 H,,, ILE, SLE,,, CD, CN,,, B-H=CH
 02 2.61 H,,, 15 2.26 G,,, SLE, ILI,,, CH, CH,,, H-E=DC
 03 1.65 E,,, 14 2.26 G,,, LII, ILI,,, CN, CH,,, E-C=HD
@@ -53,9 +56,7 @@
 20 2.13 G,,, 01 1.21 B,,, SLE, ILE,,, CH, CD,,, G-E=CH
 21 1.60 E,,, 07 1.11 A,,, LII, SEE,,, CN,,, N7,CT,HJ,DQ
 ```
-1. Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7.
-2. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2.
-3. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
+SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
 ```
 1 Of course I don't tell my colleagues straight away as it would be overwhelming.
 2 Hi Daniel, hope you are well!
