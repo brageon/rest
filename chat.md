@@ -1,5 +1,13 @@
 <h1 align="center">Concept</h1>
 
+1. As long as it's not 3-4 pm on Tuesday, it works.
+2. When on Tuesday did you have in mind.
+3. **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
+4. Don't think too much. At the interview I might be a business "HD" with clear goals.
+5. At work and/or poker, I'm more focused, sorted.
+
+```CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.```
+
 1. Of course I don't tell my colleagues straight away as it would be overwhelming.
 2. Ignore: Instead it will be step by step to give 4 skills instead of 16. 2:1
 3. Hi Daniel, hope you are well! # 3:2
@@ -61,11 +69,3 @@
 5 Is it possible on Tuesday next week, 21/1 2025? All the best!
 20 Coworkers like me but I am indifferent to them. 
 ```
-
-```CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.```
-
-1. As long as it's not 3-4 pm on Tuesday, it works.
-2. When on Tuesday did you have in mind.
-3. **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
-4. Don't think too much. At the interview I might be a business "HD" with clear goals.
-5. At work and/or poker, I'm more focused, sorted. 
