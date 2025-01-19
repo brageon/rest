@@ -1,4 +1,5 @@
 <h1 align="center">Concept</h1>
+
 1. Of course I don't tell my colleagues straight away as it would be overwhelming. Instead it will be step by step to give 4 skills instead of 16
 2. Hi Daniel, hope you are well!
 3. How nice that you want to start working as a salesperson with us at Company.
