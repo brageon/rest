@@ -1,4 +1,4 @@
-<h1 align="center">Concept</h1>
+<h1 align="center">Reframing Concept</h1>
 
 1. As long as it's not 3-4 pm on Tuesday, it works. # 12 after 5 in noise.
 2. When on Tuesday did you have in mind. # 13 after 12 in signal. 
