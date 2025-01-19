@@ -16,8 +16,8 @@
 
 *At chat.txt you can see how I review scripts with Colab on my phone. I always have two tools for separate problems, e.g. **rest** as a backup.*
 
-1. Gimmeserendipty: ENFJ/IXTP or EIE-ND, QeQe=10/3.
-2. Rest: F or SLI, ISTJ. Here DC, QiQe=8/8 with np.sqrt
+1. Gimmeserendipty: ENFJ/IXTP or ND, QeQe=10/3
+2. Rest: SLI=ISTJ or DC, QiQe=8/8 with np.sqrt
 3. Without np I get I/J or ND. 
 4. Separately in GS give NC. 
 
