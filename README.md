@@ -8,7 +8,7 @@
 1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4 rst.```
 2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8.```
 3. 1 mol: 0.4 rst. 2 mol: 4.25 rst. Variance: 11.
-4. Chat.md: CNC+CHC=DC=22/8 or 2.8 rst. Variance: 5.3
+4. Chat.md: CNC+CHC=DC=22/8 or 2.8 rst. 
 5. Resume: DN+CD=C+N = (10+8)/2 = 8 calls.
 6. Units: DN>CH>DC>HH>CC>DD>NN>NH>DH>CN.
 7. Conversions: ```D+H:HN, D+N:NH, D+C:CD, N+C:HD, H+C:ND```
