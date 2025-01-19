@@ -1,8 +1,8 @@
 <h1 align="center">Concept</h1>
 
 1. Of course I don't tell my colleagues straight away as it would be overwhelming.
--2. Instead it will be step by step to give 4 skills instead of 16
-3. Hi Daniel, hope you are well!
+2. Ignore: Instead it will be step by step to give 4 skills instead of 16. 2:1
+3. Hi Daniel, hope you are well! # 3:2
 4. How nice that you want to start working as a salesperson with us at Company.
 5. I see that you have good experience in the field and therefore I would like to get to know you better over an interview.
 6. Is it possible on Tuesday next week, 21/1 2025? All the best!
