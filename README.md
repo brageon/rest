@@ -4,7 +4,7 @@
 3. Edit oanc/oak.txt
 4. ```python3 oanc/king.py | sort -k2 -nr```
 
-# Sales Agency 💶
+# Sales Agency💰
 1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4 rst.```
 2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8.```
 3. 1 mol: 0.4 rst. 2 mol: 4.25 rst. Variance: 11.
