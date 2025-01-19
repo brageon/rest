@@ -46,7 +46,7 @@
 1. Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7.
 2. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2.
 3. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
-
+```
 1 Of course I don't tell my colleagues straight away as it would be overwhelming. Instead it will be step by step to give 4 skills instead of 16
 2 Hi Daniel, hope you are well!
 15 Corrected the ranking with feedback. Sauna before poker. 
@@ -58,7 +58,7 @@
 8 I see temperament from eye contact. Been to the swimming pool this morning.
 5 Is it possible on Tuesday next week, 21/1 2025? All the best!
 20 Coworkers like me but I am indifferent to them. 
-
+```
 6 Already have an interview booked for Tuesday. Choose another day next week. 
 12 As long as it's not 3-4 pm on Tuesday, it works.
 7 My procedure is 1) world view, 2) profile, 3) lazyapply, 4) if approved -> read the ad, 5) vultology, 6) H axis bc of trust, 7) show it to my sister. 
@@ -67,7 +67,8 @@
 14 At work and/or poker, I'm more focused, sorted
 21 People think I am shy because of "projection" as I already know they have nothing valuable.
 
-CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F. 
+• CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F. 
+
 5-12 As long as it's not 3-4 pm on Tuesday, it works.
 13 When on Tuesday did you have in mind. 
 8 **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
