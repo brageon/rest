@@ -11,9 +11,8 @@
 4. Resume: DN+CD=C+N = (10+8)/2 = 8 calls.
 5. Units: DN>CH>DC>HH>CC>DD>NN>NH>DH>CN.
 6. Conversions: ```D+H:HN, D+N:NH, D+C:CD, N+C:HD, H+C:ND```
-7. Conversions: ```D+D:DD, N+N:DD, C+C:DC, H+H:DC, N+H:NN.```
-8. ITR: DNND, NCCN, HDDH, CHHC.
-9. *Make a video game to emotionally bond with someone.* Ophelia 4.88 rst.
+7. Conversions: ```D+D:DD, N+N:DD, C+C:DC, H+H:DC, N+H:NN```
+8. *Make a video game to bond with someone.* DeDe
 
 # Typology🎭
 Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2. "Is there more than one way? Yes" 4w5. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
