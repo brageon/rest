@@ -8,8 +8,8 @@
 1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4 rst.```
 2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8.```
 3. 1 mol: 0.4 rst. 2 mol: 4.25 rst. Variance: 11.
-4. Chat.md: CNC+CHC=DC=22/8 or 2.8 rst. 
-5. Resume: DN+CD=C+N = (10+8)/2 = 8 calls.
+4. Chat.md: CNC+CHC=DC=22/8 or 2.75 rst. 
+5. Resume: DN+CD=C+N=18/2 or 8 calls.
 6. Units: DN>CH>DC>HH>CC>DD>NN>NH>DH>CN.
 7. Conversions: ```D+H:HN, D+N:NH, D+C:CD, N+C:HD, H+C:ND```
 8. Conversions: ```D+D:DD, N+N:DD, C+C:DC, H+H:DC, N+H:NN```
@@ -18,8 +18,8 @@
 *At chat.md you can see how I review scripts with Colab on my phone. I always have two tools for separate problems, e.g. **rest** as a backup.*
 
 1. Gimmeserendipty: ENFJ/IXTP or ND, QeQe=10/3
-2. Rest: SLI=ISTJ or DC, QiQe=8/8 with np.sqrt
-3. Without np it get I/J or ND. Separately in GS give NC.
+2. Rest: SLI=ISTJ or DC, QiQe=8 with np.sqrt
+4. Without np it get I/J or ND. Separately in GS give NC.
 
 # Typology🎭
 Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2. "Is there more than one way? Yes" 4w5. SHS: CDHNCDNCDH. ITR: HC, ND, HD, CN, HD, NC, HC, ND, HD.
