@@ -20,7 +20,7 @@
 19. I rarely look at LinkedIn as people don't interest me. I easily become popular without liking them back.
 20. Colleagues like me but I am indifferent to them.
 21. People think I am shy because of "projection" as I already know they have nothing valuable
-
+```
 01 1.21 B,,, 02 2.61 H,,, ILE, SLE,,, CD, CN,,, B-H=CH
 02 2.61 H,,, 15 2.26 G,,, SLE, ILI,,, CH, CH,,, H-E=DC
 03 1.65 E,,, 14 2.26 G,,, LII, ILI,,, CN, CH,,, E-C=HD
@@ -42,7 +42,7 @@
 19 1.50 D,,, 04 1.30 C,,, SEI, IEI,,, DC, NH,,, D-G=DN
 20 2.13 G,,, 01 1.21 B,,, SLE, ILE,,, CH, CD,,, G-E=CH
 21 1.60 E,,, 07 1.11 A,,, LII, SEE,,, CN,,, N7,CT,HJ,DQ
-
+```
 1. Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7.
 2. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2.
 3. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
