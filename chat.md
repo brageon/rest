@@ -4,7 +4,7 @@
 2. When on Tuesday did you have in mind. # 13 after 12 in signal. 
 3. **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
 4. Don't think too much. At the interview I might be a business "HD" with clear goals.
-5. At work and/or poker, I'm more focused, sorted. # √7.59 or 0.73 rst bc of 2/2.8
+5. At work and/or poker, I'm more focused, sorted. # 5+2 types because of BHECF+EG. 
 
 CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.
 ```
