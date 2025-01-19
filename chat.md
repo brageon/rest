@@ -1,7 +1,7 @@
 <h1 align="center">Concept</h1>
 
-1. As long as it's not 3-4 pm on Tuesday, it works.
-2. When on Tuesday did you have in mind.
+1. As long as it's not 3-4 pm on Tuesday, it works. # 12 after 5 in noise.
+2. When on Tuesday did you have in mind. # 13 after 12 in signal. 
 3. **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
 4. Don't think too much. At the interview I might be a business "HD" with clear goals.
 5. At work and/or poker, I'm more focused, sorted.
