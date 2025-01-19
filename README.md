@@ -14,7 +14,7 @@
 7. Conversions: ```D+D:DD, N+N:DD, C+C:DC, H+H:DC, N+H:NN```
 8. *Make a video game to bond with someone.* DeDe
 
-*At chat.txt you can see how I review scripts with Colab on my phone. I always have two tools for separate problems, e.g. **rest** as a backup.*
+*At chat.md you can see how I review scripts with Colab on my phone. I always have two tools for separate problems, e.g. **rest** as a backup.*
 
 1. Gimmeserendipty: ENFJ/IXTP or ND, QeQe=10/3
 2. Rest: SLI=ISTJ or DC, QiQe=8/8 with np.sqrt
