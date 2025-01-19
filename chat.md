@@ -34,29 +34,29 @@ CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.
 1. Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7.
 2. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2.
 ```
-01 1.21 B,,, 02 2.61 H,,, ILE, SLE,,, CD, CN,,, B-H=CH
-02 2.61 H,,, 15 2.26 G,,, SLE, ILI,,, CH, CH,,, H-E=DC
-03 1.65 E,,, 14 2.26 G,,, LII, ILI,,, CN, CH,,, E-C=HD
-04 1.30 C,,, 09 2.26 G,,, IEI, ILI,,, NH, CH,,, C-F=HD
-05 1.84 F,,, 20 2.13 G,,, SLI, ILI,,, DC, CH,,, F-F=DC
-06 1.84 F,,, 12 1.92 F,,, SLI, SLI,,, DC, DC,,, F-A=NC
-07 1.11 A,,, 06 1.84 F,,, SEE, SLI,,, CD, DC,,, A-F=ND
+01 1.21 B,,, 02 2.61 H,,, ILE, SLE,,, CD, CN,,, B-H=NC
+02 2.61 H,,, 15 2.26 G,,, SLE, ILI,,, CH, CH,,, H-E=HD
+03 1.65 E,,, 14 2.26 G,,, LII, ILI,,, CN, CH,,, E-C=NC
+04 1.30 C,,, 09 2.26 G,,, IEI, ILI,,, NH, CH,,, C-F=NC
+05 1.84 F,,, 20 2.13 G,,, SLI, ILI,,, DC, CH,,, F-F=DH
+06 1.84 F,,, 12 1.92 F,,, SLI, SLI,,, DC, DC,,, F-A=HD
+07 1.11 A,,, 06 1.84 F,,, SEE, SLI,,, CD, DC,,, A-F=HD
 08 1.77 F,,, 05 1.84 F,,, SLI, SLI,,, DC, DC,,, F-G=HD
 09 2.26 G,,, 08 1.77 F,,, ILI, SLI,,, CH, DC,,, G-E=CH
-10 1.60 E,,, 16 1.71 E,,, LII, LII,,, CN, CN,,, E-E=DN
+10 1.60 E,,, 16 1.71 E,,, LII, LII,,, CN, CN,,, E-E=DH
 11 1.71 E,,, 13 1.71 E,,, LII, LII,,, CN, CN,,, E-F=CN
 12 1.92 F,,, 11 1.71 E,,, SLI, LII,,, DC, CN,,, F-E=CH
 13 1.71 E,,, 03 1.65 E,,, LII, LII,,, CN, CN,,, E-G=CN
 14 2.26 G,,, 21 1.60 E,,, ILI, LII,,, CH, CN,,, G-G=DH
-15 2.26 G,,, 10 1.60 E,,, ILI, LII,,, CH, CN,,, G-E=HD
+15 2.26 G,,, 10 1.60 E,,, ILI, LII,,, CH, CN,,, G-E=CH
 16 1.71 E,,, 19 1.50 D,,, LII, SEI,,, CN, DC,,, E-D=CN
 17 1.46 D,,, 17 1.46 D,,, SEI, SEI,,, DC, DC,,, D-D=DH
 18 1.43 D,,, 18 1.43 D,,, SEI, SEI,,, DC, DC,,, D-D=DH
-19 1.50 D,,, 04 1.30 C,,, SEI, IEI,,, DC, NH,,, D-G=DN
-20 2.13 G,,, 01 1.21 B,,, SLE, ILE,,, CH, CD,,, G-E=CH
+19 1.50 D,,, 04 1.30 C,,, SEI, IEI,,, DC, NH,,, D-G=ND
+20 2.13 G,,, 01 1.21 B,,, SLE, ILE,,, CH, CD,,, G-E=DN
 21 1.60 E,,, 07 1.11 A,,, LII, SEE,,, CN,,, N7,CT,HJ,DQ
 ```
-SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
+SHS: CDHNCDNCDH. ITR: HC, ND, HD, CN, HD, NC, HC, ND, HD.
 ```
 1 Of course I don't tell my colleagues straight away as it would be overwhelming.
 2 Hi Daniel, hope you are well!
