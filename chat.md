@@ -1,4 +1,4 @@
-# Vultology
+<h1 align="center">Concept</h1>
 1. Of course I don't tell my colleagues straight away as it would be overwhelming. Instead it will be step by step to give 4 skills instead of 16
 2. Hi Daniel, hope you are well!
 3. How nice that you want to start working as a salesperson with us at Company.
@@ -67,10 +67,10 @@
 14 At work and/or poker, I'm more focused, sorted
 21 People think I am shy because of "projection" as I already know they have nothing valuable.
 
-• CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F. 
+```CH+DC+CN=18/2. Silly inviting trust beside EXTP with vulnerable F.```
 
-5-12 As long as it's not 3-4 pm on Tuesday, it works.
-13 When on Tuesday did you have in mind. 
-8 **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
-10 Don't think too much. At the interview I might be a business "HD" with clear goals.
-14 At work and/or poker, I'm more focused, sorted. 
+1. As long as it's not 3-4 pm on Tuesday, it works.
+2. When on Tuesday did you have in mind.
+3. **Did you know that vultology is used to see temperament?** Been to the swimming pool this morning.
+4. Don't think too much. At the interview I might be a business "HD" with clear goals.
+5. At work and/or poker, I'm more focused, sorted. 
