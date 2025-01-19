@@ -22,10 +22,10 @@
 4. Separately in GS give NC. 
 
 # Typology🎭
-Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2. "Is there more than one way? Yes" 4w5. SHS: CDHNCDNCDH. ITR: HC, ND, HD, NC, CH, DN, CN, HC, ND, HD.
-```
-Probability in %. Right columns is subtype. Relative position. 
-```
+Asking: SEE 13/12, ILE 13/11, IEI 13/10, SEI 13/9, LII 13/8, SLI 13/7. Declaring: ILI 13/6, SLE 13/5, EII 13/4, ESE 13/3, LSE 13/2. "Is there more than one way? Yes" 4w5. SHS: CDHNCDNCDH. ITR: HC, ND, HD, CN, HD, NC, HC, ND, HD.
+
+```Probability in %. Right columns is subtype. Relative position.```
+
 1. DiQi: 36C 27D 18N 18H. DiQe: 52N 26H 16C 06D.
 2. QiDe: 25D 25C 25H 25N. QiQi: 31C 31N 31D 07H.
 3. QiQe: 33D 33C 17N 17H. DiDe: 47C 23H 23N 06D.
