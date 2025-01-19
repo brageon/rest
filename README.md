@@ -6,9 +6,9 @@
 
 # Sales Agency💰
 1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4```
-2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8.```
-3. ```1 mol: 0.4 rst. 2 mol: 4.25 rst.```
-4. ```1 mol: 16/9=1 rst. 2 mol: 17/7=3 rst.```
+2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8```
+3. ```1 mol: 0.4 rst. 2 mol: 4.25 rst```
+4. ```1 mol: 16/9=1 rst. 2 mol: 17/7=3 rst```
 5. Chat.md: CNC+CHC=DC=22/8, 9.45 sum.
 6. Resume: DN+CD=C+N=18/2 or 8 calls.
 7. Units: DN>CH>DC>HH>CC>DD>NN>NH>DH>CN.
