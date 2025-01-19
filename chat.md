@@ -7,7 +7,7 @@
 5. I see that you have good experience in the field and therefore I would like to get to know you better over an interview.
 6. Is it possible on Tuesday next week, 21/1 2025? All the best!
 7. Already have an interview booked for Tuesday. Choose another day next week.
-8. My procedure is 1) world view, 2) profile, 3) lazyapply, 4) if approved -> read the ad, 5) vultology, 6) H axis bc of trust, 7) show it to my sister.
+8. My procedure is 1) world view, 2) profile, 3) lazyapply, 4) if approved -> read the ad, 5) vultology, 6) H axis bc of trust.
 9. I see temperament from eye contact. Been to the swimming pool this morning.
 10. Wednesday at 3 pm is a good fit.
 11. Don't think too much. At the interview I might be a business "HD" with clear goals
