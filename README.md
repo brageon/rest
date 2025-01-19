@@ -5,21 +5,21 @@
 4. ```python3 oanc/king.py | sort -k2 -nr```
 
 # Sales Agency💰
-1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4 rst.```
+1. Yester-Today: ```NC+DH=D+N -> 1/2+2/3=[7/6]/3=0.4```
 2. Observer: ```NC+DN=N+H=11/4, DH+DN=D+C=12/8.```
-3. 1 mol: 0.4 rst. 2 mol: 4.25 rst.
-4. Chat.md: CNC+CHC=DC=22/8 or 2.75 rst.
-5. 9.45+(6.7:7.6) to 16/9=1.1, 17/7=3.3
+3. ```1 mol: 0.4 rst. 2 mol: 4.25 rst.```
+4. ```1 mol: 16/9=1 rst. 2 mol: 17/7=3 rst.```
+5. Chat.md: CNC+CHC=DC=22/8, 9.45 sum.
 6. Resume: DN+CD=C+N=18/2 or 8 calls.
 7. Units: DN>CH>DC>HH>CC>DD>NN>NH>DH>CN.
 8. Conversions: ```D+H:HN, D+N:NH, D+C:CD, N+C:HD, H+C:ND```
 9. Conversions: ```D+D:DD, N+N:DD, C+C:DC, H+H:DC, N+H:NN```
-10. *Make a video game to bond with someone.* DeDe
+10. "Make a video game to bond with someone." DeDe
 
 *At chat.md you can see how I review scripts with Colab on my phone. I always have two tools for separate problems, e.g. **rest** as a backup.*
 
 1. Gimmeserendipty: ENFJ/IXTP or ND, QeQe=10/3
-2. Rest: SLI=ISTJ or DC, QiQe=1/8 with np.sqrt
+2. Rest: SLI=ISTJ or DC, QiQe=1/8 with np.sqrt()
 4. Without np it get I/J or ND. Separately in GS give NC.
 
 # Typology🎭
